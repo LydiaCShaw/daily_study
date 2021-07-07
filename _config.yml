@@ -1,12 +1,13 @@
-# Site settings
+# Site settings 2.0
 title: Lydia Shaw|Daily Blog
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://linjingshang.top" # the base hostname & protocol for your site, e.g. http://linjingshang.top
-logo: ./assets/img/Banner 2_with graphics only_lighter grey 2050x500.png
-logo-icon: ./assets/img/icons/pagelogo.png 
-logo-icon-SEO: ./assets/img/icons/pagelogo.png # must be a non SVG file
+logo: "/assets/img/Banner 2_with graphics only_lighter grey 2050x500.png"
+logo-icon: "/assets/img/icons/pagelogo.png"
+logo-icon-SEO: "/assets/img/icons/pagelogo.png" # must be a non SVG file
+
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -20,7 +21,7 @@ logo-icon-SEO: ./assets/img/icons/pagelogo.png # must be a non SVG file
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "https://github.com/LydiaCShaw/LydiaShaw.github.io/blob/gh-pages/pagelogo.png?raw=true"
+logo-dark: "/assets/img/Banner 2_with graphics only_lighter grey 2050x500.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
