@@ -4,7 +4,7 @@ description: 'Artificial Intelligence trends and concepts made easy.' # this mea
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://linjingshang.top" # the base hostname & protocol for your site, e.g. http://linjingshang.top
-logo: ./assets/img/cur.png
+logo: ./assets/img/Banner 2_with graphics only_lighter grey 2050x500.png
 logo-icon: ./assets/img/icons/pagelogo.png 
 logo-icon-SEO: ./assets/img/icons/pagelogo.png # must be a non SVG file
 
