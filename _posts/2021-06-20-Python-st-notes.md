@@ -157,18 +157,23 @@ for i in range(1,13,1) 
 **語法：
 while 條件式
 ...**
-``` 
+``` javascript
 i=1 
 while i<=12: 
-    print(i,"file for month") 
-    i=i+1
+    print(i,"file for month") 
+    i=i+1
 ```
+
+
+
 ## 3.3 
+
 ``` 
 for i in range(5): 
     for j in range(3): 
         print("i is",i,"j is",j) 
 ```
+
 ``` 
 v=False 
  
@@ -182,13 +187,15 @@ for i in range(5): 
         v=Flase 
     print() 
  
+
+```
 result: 
 *_*_* 
 _*_*_ 
 *_*_* 
 _*_*_ 
 *_*_*
-```
+
 ## 3.4
 ``` 
 num=int(input("file processed until __ month")) 
@@ -198,6 +205,7 @@ for i in range(12): 
     if(i+1)==num: 
         break
 ```
+
 ``` 
 num=int(input("file processed pass __ month")) 
  
@@ -206,7 +214,7 @@ for i in range(12): 
     if(i+1)==num: 
         continue 
     print(i+1,"file for month") 
- 
+```
 result:(1~12) 3  
 1 file for month  
 2 file for month  
@@ -219,7 +227,6 @@ result:(1~12) 3  
 10 file for month  
 11 file for month  
 12 file for month
-```
 # Chapter 4
 ## 4.2
 ``` 
