@@ -276,9 +276,9 @@ print(next(rv)) 
 **語法：元素的打包
 zip(串列A，串列B，...)
 enumerate(串列名稱)  可以將元素值與索引值合併起來**
-``` 
-city=['Beijing','Shanghai','Guangdong','Shenyang'] 
-sale=[80,60,22,50,73] 
+``` jacascript
+city=['Beijing','Shanghai','Guangdong','Shenyang']
+sale=[80,60,22,50,73]
  
 print('City:',city,'.') 
 print('Sale:',sale,'.') 
@@ -292,7 +292,7 @@ print('zip the file and index') 
  
 for d in enumerate(city): 
     print(d) 
- ```
+```
 
 result: 
 City:['Beijing','Shanghai','Guangdong','Shenyang']. 
@@ -310,6 +310,7 @@ zip the file and index 
 
 **語法：解包
 for 變數1，變數2，... in 串列名稱：**
+
 ``` 
 city=['Beijing','Shanghai','Guangdong','Shenyang'] 
 sale=[80,60,22,50,75] 
@@ -506,14 +507,15 @@ res=int(input("please enter the operation code(0-2)")) 
 if 0<=res and res<len(list): 
     list[res]() 
 /*values of list can call the function*/ 
-/* [ ]  means index*/ 
- ```
- ```
+/*. [ ] means index*/ 
+```
+
+
 Operation results: 
 please enter the operation code(0-2) 
 1 
 change the file
-```
+
 **語法：lambda運算子
 lambda 引數：表達式**
 ``` 
