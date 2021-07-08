@@ -18,7 +18,7 @@ When we get the signal from the electrode like the following picture shown, in o
 The images are ten motions of our hands.Different motions means different  signals, and what we should do is making computers distinguish them and let the prosthesis do the same motions.
 ## Feature values
 Common feature values are divided into time  and frequency domain,the transformation may be considered such as short time Fourier, wavelet transform and so on. At that time, we can see the figure on the left hand side is power spectrum density of EMG signals.
-![image](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210708/aa814eee04246ba472b809c341522186/aa814eee04246ba472b809c341522186.png)
+![image](./assets/img/posts/20201208/2.png)
 To the naked eye, the waves is almost similar. Therefore, just using the PSD is not enough. So how to do the next work? 
 Firstly we choose the wavelet transform and calculate values such as Continuous wavelet coefficients, and the second one is Fourier transform. Cfai means admissibility condition, which we use of a wide variety of mother wavelet functions, and they need to satisfy it. I just try to explain the progress of feature extraction,  so the specific values would not be considered at that time.
 
@@ -41,3 +41,5 @@ Therefore,it was considered the main feature to define the mother wavelet matrix
 We know that different movements have different signals. By doing the feature extraction, one can obtained some values which can distingish these movements. This is still useful for people with disabilities who have missing parts of their upper limbs.
 A surgical technique called targeted muscle reinnervation (TMR) transfers residual arm nerves to alternative muscle sites. After reinnervation, these target muscles produce electromyogram  signals on the surface of the skin that can be measured and used to control prosthetic arms.
 After surgery, patients’ nerve can be transplanted to other place, such as biceps or triceps,therefore, EMG signals would be similar which can be recognized using these method. Therefore, it is necessary to recognize the signals of these 10 motions so that computers can recognize these signals to help the patient complete the action.
+
+
