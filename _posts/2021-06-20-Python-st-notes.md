@@ -54,7 +54,7 @@ print(name,“營業據點的銷售量為”，sale，“萬元。”）
 ```
 輸出：東京營業據點的銷售量為10萬元。
 ## 2.4
-```javascript
+```
 price=50 
 num=10 
 total=price*num 
@@ -66,12 +66,12 @@ total=total-100 
 print("in total after off%",total,"yuan")
 ```
 ## 2.5
-```javascript
+```
 value=input('  ')
 value=input("please enter:") 
 print("you entered:",value)
 ```
-```javascript
+``` 
 num1=input("num1:") 
 num2=input("num2:") 
 num3=num1+num2 
@@ -88,7 +88,7 @@ if条件式：
     叙述句1
     叙述句2
      **
-```javascript
+``` 
 sale=int(input('enter sale:')) 
  
 if sale>=100 : 
@@ -96,7 +96,7 @@ if sale>=100 : 
 print("end")
 ```
 if ~elif~else
-```javascript
+``` 
 if condition1: 
     statement1 
     statement2 
@@ -113,7 +113,7 @@ else: 
     ...
 ```
 复杂条件式的判断与处理
-```javascript
+``` 
 sale=int(input(" ")) 
 num=int(input("")) 
  
@@ -157,19 +157,24 @@ for i in range(1,13,1) 
 **語法：
 while 條件式
 ...**
-```javascript
+``` javascript
 i=1 
 while i<=12: 
-    print(i,"file for month") 
-    i=i+1
+    print(i,"file for month") 
+    i=i+1
 ```
+
+
+
 ## 3.3 
-```javascript
+
+``` 
 for i in range(5): 
     for j in range(3): 
         print("i is",i,"j is",j) 
 ```
-```javascript
+
+``` 
 v=False 
  
 for i in range(5): 
@@ -182,15 +187,17 @@ for i in range(5): 
         v=Flase 
     print() 
  
+
+```
 result: 
 *_*_* 
 _*_*_ 
 *_*_* 
 _*_*_ 
 *_*_*
-```
+
 ## 3.4
-```javascript
+``` 
 num=int(input("file processed until __ month")) 
  
 for i in range(12): 
@@ -198,7 +205,8 @@ for i in range(12): 
     if(i+1)==num: 
         break
 ```
-```javascript
+
+``` 
 num=int(input("file processed pass __ month")) 
  
 for i in range(12): 
@@ -206,7 +214,7 @@ for i in range(12): 
     if(i+1)==num: 
         continue 
     print(i+1,"file for month") 
- 
+```
 result:(1~12) 3  
 1 file for month  
 2 file for month  
@@ -219,10 +227,9 @@ result:(1~12) 3  
 10 file for month  
 11 file for month  
 12 file for month
-```
 # Chapter 4
 ## 4.2
-```javascript
+``` 
 sale=[80,60,22,50,75] 
 print("list length is",len(sale),"list is :",sale) 
  
@@ -243,7 +250,7 @@ sale.remove(22) 
 print("list is:",sale)
 ```
 ## 4.3
-```javascript
+``` 
 data1=[1,2,3,4,5] 
 data2=list(data1) 
 print(data1) 
@@ -269,9 +276,9 @@ print(next(rv)) 
 **語法：元素的打包
 zip(串列A，串列B，...)
 enumerate(串列名稱)  可以將元素值與索引值合併起來**
-```javascript
-city=['Beijing','Shanghai','Guangdong','Shenyang'] 
-sale=[80,60,22,50,73] 
+``` jacascript
+city=['Beijing','Shanghai','Guangdong','Shenyang']
+sale=[80,60,22,50,73]
  
 print('City:',city,'.') 
 print('Sale:',sale,'.') 
@@ -285,7 +292,7 @@ print('zip the file and index') 
  
 for d in enumerate(city): 
     print(d) 
- ```
+```
 
 result: 
 City:['Beijing','Shanghai','Guangdong','Shenyang']. 
@@ -303,7 +310,8 @@ zip the file and index 
 
 **語法：解包
 for 變數1，變數2，... in 串列名稱：**
-```javascript
+
+``` 
 city=['Beijing','Shanghai','Guangdong','Shenyang'] 
 sale=[80,60,22,50,75] 
  
@@ -322,7 +330,7 @@ for c,s in zip(city,sale): 
 ```
 **語法：串列的推導式
 [表達式 for 變數 in 串列 if 條件]**
-```javascript
+``` 
 data=[1,2,3,4,5] 
 print('the file is:',data,'.') 
  
@@ -335,7 +343,7 @@ print('the file is:',ndata,'.')
 字典名称[键值]=元素值
 语法：新增字典的元素
 字典名称[键值]=元素值**
-```javascript
+``` 
 sale={a:80,b=60,c=40,d=20}
 k=input(“enter the new key”)
 if k in sale:
@@ -367,7 +375,7 @@ else:
 字典名称.keys()... 逐一取得键值
 字典名称.values()... 逐一取得元素值
 字典名称.items()... 逐一取得键值，元素值的元组**
-```javascript
+``` 
 sale={a:80,b:60,c:40,d:20}
 print(“the file is:”,sale)
 
@@ -383,7 +391,7 @@ print()
 ```
 **语法：更新字典
 字典名称.update(新增的字典名称)**
-```javascript
+``` 
 sale1={"Beijing":80,"Shanghai":20,"Shenzhen":60} 
 sale2={"Guangdong":22,"Shenyang":95,"Nanjing":50} 
  
@@ -399,7 +407,7 @@ print("file 1 is:",sale1)
 **語法：集合元素的新增、刪除
 集合名稱.add()
 集合名稱.remove()**
-```javascript
+``` 
 city={"Beijing","Shanghai","Shenyang","Guangdong"} 
  
 d=input("please enter the file you want to add") 
@@ -416,7 +424,7 @@ if d in city: 
 else: 
    print("not found this file.")
 ```
-```javascript
+``` 
 cityA={"Shenyang","Beijing","Guangdong","Shanghai"} 
 cityB={"Nanjing","Shanghai","Jiangsu"} 
  
@@ -430,14 +438,14 @@ print("all the files are:",cityA|cityB)
 ```
 # Chapter 6
 ## 6.3
-```javascript
+``` 
 def sell(place): 
     print(place,"start selling") 
  
 shop="Beijing" 
 sell(shop)
 ```
-```javascript
+``` 
 def sell(place,num): 
     print(place,"start selling",num,'yuan') 
  
@@ -445,7 +453,7 @@ shop="Beijing" 
 money=5 
 sell(shop,money)
 ```
-```javascript
+``` 
 #true 
 def func1(a,b,c,d=2,e=10): 
  
@@ -457,7 +465,7 @@ func1(10,5,20,30) 
 func1(10,5,20,30,50)
 ```
 ## 6.4
-```javascript
+``` 
 def sell(place,price,num): 
     print(place,"sale for",num,"componies",price,"million products.") 
  
@@ -469,7 +477,7 @@ total= sell("Beijing",100,5) 
 print("the total sales are:",total,"million dollars")
 ```
 返回多個傳回值
-```javascript
+``` 
 def sell(): 
    y=2018 
    m=10 
@@ -483,7 +491,7 @@ sy,sm,sd=sell() 
 print("stop selling",sy,sm,sd)
 ```
 ## 6.5
-```javascript
+``` 
 def append(): 
     print("add new file") 
 def update(): 
@@ -499,17 +507,18 @@ res=int(input("please enter the operation code(0-2)")) 
 if 0<=res and res<len(list): 
     list[res]() 
 /*values of list can call the function*/ 
-/* [ ]  means index*/ 
- ```
- ```
+/*. [ ] means index*/ 
+```
+
+
 Operation results: 
 please enter the operation code(0-2) 
 1 
 change the file
-```
+
 **語法：lambda運算子
 lambda 引數：表達式**
-```javascript
+``` 
 data=[1,2,3,4,5] 
  
 for d in map(lambda x:x*2,data): 
@@ -521,13 +530,13 @@ operation results: 
 ```
 語法：map()函數
 map(函數，可迭代物件)
-```javascript
+``` 
 data=[1,2,3,4,5] 
 for d in [x*2 for x in data]: 
     print(d)
 ```
 用裝飾器在函數中新增功能
-```javascript
+``` 
 def deco(func): 
     def wrapper... 
         ... 
@@ -537,7 +546,7 @@ def deco(func): 
 語法：裝飾器
 @裝飾其他物件並用來新增功能的函數名稱
 def 被新增功能的函數名稱：
-```javascript
+``` 
 def deco(func): /* 外側函數接收原本的函數並把它視為引數*/ 
     def wrapper(x): 
         wx="---"+x+"---" 
@@ -556,7 +565,7 @@ printmsg(str) /*呼叫函數後 */
 Please enter the message: hello
 You entered: ---hello---
 ## 6.6
-```javascript
+``` 
 a=0 
 def funcB(): 
     b=1 
@@ -582,7 +591,7 @@ funcC()
 ```
 ## 6.7
 
-```javascript
+``` 
 a=0 
  
 def func(): 
@@ -610,7 +619,7 @@ class 类别名称：
         self.变数名称=...
         ...
         return 叙述
-```javascript
+``` 
 class person:
     def getname(self):
         return self.name
@@ -620,7 +629,7 @@ class person:
 语法：属性的利用
 实体物件名称.资料属性名称
 实体物件名称.方法名称（引数列表）
-```javascript
+``` 
 class Person:  ①定義類別
     def getName(self): 
         return self.name 
@@ -638,7 +647,7 @@ a=pr.getAge()         ③呼叫方法
 print("Miss/Mr",n,"age",a)
 ```
 建立多個實體物件
-```javascript
+``` 
 class Person: 
     def getName(self): 
         return self.name 
@@ -665,14 +674,14 @@ print("Ms/Mr",n2,age,a2)
 語法：建構子
 def__init__(self,引數列表):
 ....
-```javascript
+``` 
 def__init__(self,name,age): 
     self.name=name 
     self.age=age 
  
 pr=person("Sheung",24)
 ```
-```javascript
+``` 
 class Person: 
     def__init__(self,name,age): 
         self.name=name 
@@ -692,7 +701,7 @@ a=pr.getAge() 
 print("Mr/Ms",n, age,a)
 ```
 ## 7.3
-```javascript
+``` 
 class Person(): 
     count=0  /* 屬於整個類別的值的資料屬性（類別變量）*/ 
     ... 
@@ -701,7 +710,7 @@ class Person(): 
         /*每個實體物件都格子有一個值的資料屬性（實體變量） */
 ```
 要定義返回類別變量count值的類別方法。
-```javascript
+``` 
 @classmethod 
 def getCount(cls): /*將類別名稱傳遞給第一個引數 */ 
     return cls.count 
@@ -711,7 +720,7 @@ def getCount(cls): /*將類別名稱傳遞給第一個引數 */ 
 Person.count  附加類別名稱來表示類別變量
 類別方法：
 Person.getCount() 附加類別名稱並呼叫
-```javascript
+``` 
 class Person(): 
     count=0 
  
@@ -745,7 +754,7 @@ class 衍生類別名稱（基礎類別名稱）：
 def 在衍生類別中新增的方法（self,引數列表）：
     self.在衍生類別中新增的資料屬性=值
     ...
-```javascript
+``` 
 class Customer(Person): /* 定義衍生類別*/ 
     def__init__(self,nm,ag,ad,tl): /* 這是衍生類別的建構子*/ 
         super().__init__(nm,ag) /* 為了將基礎類別的資料屬性初始化，而呼叫基礎類別的建構子 */ 
@@ -765,7 +774,7 @@ class Customer(Person): /* 定義衍生類別*/ 
 語法：多重繼承
 class Customer (Person,Account):
 ...
-```javascript
+``` 
 class Person(): 
     ... 
     def getName(self): 
@@ -778,7 +787,7 @@ class Customer(Person): 
         return self.name
 ```
 覆寫
-```javascript
+``` 
 class Person: 
     def __init__(self,name,age): 
         self.name=name 
@@ -816,7 +825,7 @@ print("mail:",ad,"tel:",tl)
 Mr/Ms Customer Sheung age 18
 mail: LydiaCShaw@gmail.com tel: 852-6882xxxx
 ## 7.6
-```javascript
+``` 
 class Person: 
     ... 
     def __str__(self): /* 一旦定義既有名稱的方法__str__0 ...*/ 
@@ -824,7 +833,7 @@ class Person: 
         return str
 ```
 定義運算子的處理
-```javascript
+``` 
 class A: 
     ... 
     def __add__(self,other): 
@@ -834,7 +843,7 @@ a2=A(2) 
 print(a1+a2)
 ```
 ## 7.7
-```javascript
+``` 
 myclass.py 
  
 class Person: 
@@ -875,7 +884,7 @@ print("Mr/Ms",nm,"age",ag,"E-mail",ad,"Tel:",tl,".")
 ```
 語法：直接引入
 from 模組名稱 import 函數名稱或類別名稱
-```javascript
+``` 
 from myclass import Customer 
     ... 
 pr=Customer("Sheung",18,"LydiaCShaw@gmail.com","852-68816430") 
@@ -884,7 +893,7 @@ print("Mr/Ms",nm,"age",ag,"E-mail",ad,"Tel:",tl,".")
 ```
 # Chapter 8
 
-```javascript
+``` 
 str=input("please enter the string") 
  
 print("the string is:",str,".") 
@@ -898,7 +907,7 @@ The string is: Hello~everyone
 Acquire the string of index 0: H
 Reverse the string enoyreve~olleH
 The length of string is: 14
-```javascript
+``` 
 str=input("please enter:") 
  
 print("string is:",str) 
@@ -912,7 +921,7 @@ Change to upper case: HELLO
 Change to lower case: hello
 
 格式化字串
-```javascript
+``` 
 word0=input("please enter the first word:") 
 word1=input("please enter the second word:") 
 word2=input("please enter the third word:") 
@@ -935,7 +944,7 @@ Please enter the money: 10000
 10 products              10,000yuan
 
 搜尋字串
-```javascript
+``` 
 str=input("enter the string:") 
 key=input("enter the key word you want to search:") 
 res=str.find(key) 
@@ -949,7 +958,7 @@ Enter the string: Hello
 Enter the key word you want to search: o
 O existed in Hello at 4 position.
 字串的取代
-```javascript
+``` 
 str1=input("enter the string") 
 old=input("enter the string you want to be replaced") 
 new=input("enter the string you want to replace") 
@@ -970,7 +979,7 @@ import re
 語法：投過正規表示式來檢索
 用來表示編譯後模式的變量=re.compile(模式)  ①編譯模式字串
 用來表示編譯後模式的變量.search(檢索對象字串)  ②進行檢索
-```javascript
+``` 
 import re 
 ptr=["Apple","GoodBye","Thankyou"] 
 str=["Hello","GoodBye","Thankyou"] 
@@ -1003,7 +1012,7 @@ for valueptr in ptr: 
 (pattern)Thankyou(string)Thankyou(match) yes
 
 表示字串開始與結束的正規表示式
-```javascript
+``` 
 import re 
 ptr=["TXT","^TXT","TXT$","^TXT$"] 
 str=["TXT","TXTT","TXTTT","TTXT"] 
@@ -1045,7 +1054,7 @@ for valueptr in ptr: 
 (pattern)^TXT$(string)TTXT(match) no
 ```
 表示1個字元的正規表示式
-```javascript
+``` 
 import re 
 ptr=["TXT.","TXT..",".TXT","..TXT"] 
 str=["TXT","TXTT","TXTTT","TTXT","TTTXT"] 
@@ -1090,7 +1099,7 @@ for valueptr in ptr: 
 (pattern)..TXT(string)TTTXT(match) yes
 ```
 使用代表字元類別的正規表示式
-```javascript
+``` 
 import re 
 ptr=["[012]","[0-3]","[^012]"] 
 str=["0","1","2","3"] 
@@ -1126,7 +1135,7 @@ for valueptr in ptr: 
 (pattern)[^012](string)3(match) yes
 ```
 表示重複的正規表示式
-```javascript
+``` 
 import re 
 ptr=["T*","T+","T?","T{3}"] 
 str=["X","TT","TTT","TTTT"] 
@@ -1167,7 +1176,7 @@ for valueptr in ptr: 
 (pattern)T{3}(string)TTTT(match) yes
 ```
 表示群組化和選擇的正規表示式
-```javascript
+``` 
 import re 
 ptr=["(TXT)+","TXT|XTX"] 
 str=["TX","TXT","XTX","TXTXT"] 
@@ -1198,7 +1207,7 @@ for valueptr in ptr: 
 (pattern)TXT|XTX(string)TXTXT(match) yes
 ```
 正規表示式的方法
-```javascript
+``` 
 import re 
 ptr="\\.(csv|html|py)$" 
 str=["sample.csv","sample.exe","test.py","index.html"] 
@@ -1219,14 +1228,14 @@ for valuestr in str: 
 # Chapter 9
 ## 9.1
 寫入到文字檔案
-```javascript
+``` 
 f=open("sample.txt","w") 
 f.write("hello\\n") 
 f.write("goodbye\\n") 
 f.close()
 ```
 讀取文字檔案
-```javascript
+``` 
 f=open("sample.txt","r") /*在讀取模式中開啟檔案 */ 
 lines=f.readlines()/*讀取所有的列 */ 
 for line in lines: /* 逐列反復取出*/ 
@@ -1243,7 +1252,7 @@ Shenyang,ruler,100
 Guangzhou,notebook,73
 ```
 
-```javascript
+``` 
 import csv 
 f=open("sample.csv","r") 
 rd=csv.reader(f) 
@@ -1261,7 +1270,7 @@ Shenyang,ruler,100,
 Guangzhou,notebook,73,
 
 寫入CSV檔案
-```javascript
+``` 
 w=csv.writer(f) 
 w.writerow(["Beijing","rubber"]) 
 w.writerows([["Beijing","ruler"],["Shanghai","notebook"]])
@@ -1283,7 +1292,7 @@ sample4.json
 }
 ```
 sample4.py->read JSON file
-```javascript
+``` 
 import json 
 f=open("sample.json","r") 
 data=json.load(f) 
@@ -1305,7 +1314,7 @@ else:
 finally:
 最後一定會處理的敘述
 ...
-```javascript
+``` 
 try: 
     f=open("sample.txt","r") 
     except FileNotFounfError: 
@@ -1320,7 +1329,7 @@ finally: 
 ```
 ## 9.5
 取得指定路徑的資訊
-```javascript
+``` 
 import os 
 import os.path 
 curdir=os.listdir(".") 
@@ -1335,7 +1344,7 @@ print()
 ## 9.6
 語法：利用日期時間資訊
 import datetime
-```javascript
+``` 
 import datetime 
 dt=datetime.datetime.now() 
 print("now is",dt) 
@@ -1353,7 +1362,7 @@ Day 06
 Adter 1 day is 2021-07-07 17:25:14.595045
 
 指定日期時間的格式
-```javascript
+``` 
 import datetime 
 dt=datetime.datetime.now() 
 str=dt.strftime("%c") 
@@ -1381,7 +1390,7 @@ VALUES(“pencil”,80)
 ```SELECT* FROM product```
 顯示整個表格
 
-```javascript
+``` 
 import sqlite3 /* 為了使用資料庫而匯入的模組*/  
 conn=sqlite3.connect("pdb.db") /* 連接資料庫*/  
 c=conn.cursor() /* 取得資料指標*/  
@@ -1404,7 +1413,7 @@ SELECT *
 FROM  product
 WHERE  price>=200
 ```
-```javascript
+``` 
 import sqlite3 
 conn=sqlite3.connect("pdb.db") 
 c=conn.cursor() 
@@ -1441,14 +1450,14 @@ ORDER BY price DESC
 ## 10.4 
 語法：讀取URL的模組
 import urllib.request
-```javascript
+``` 
 import urllib.request.urlopen("https://www.lydiashaw.asia") 
 html=page.read() 
 str=html.decode() 
 print(str)
 ```
 解析HTML
-```javascript
+``` 
 import urllib.request 
 from html.parser import HTMLParser 
  
@@ -1481,7 +1490,7 @@ title:Lydia Shaw|Main Page
 ## 11.2
 語法：統計指標的模組
 import statistics
-```javascript
+``` 
 import statistics 
 data=[8,17,0,11,6,21,16,6,17,11,7,9,6,13,12,16,3,14,13,12] 
 print("mean",statistics.mean(data)) 
@@ -1499,7 +1508,7 @@ pstdev 5.146843692983108
 ## 11.3
 語法：繪製圖表
 import matplotlib.pyplot as plt
-```javascript
+``` 
 import matplotlib.pyplot as plt 
 data=[8,17,0,11,6,21,16,6,17,11,7,9,6,13,12,16,3,14,13,12] 
 plt.title("Histogram") 
@@ -1512,7 +1521,7 @@ plt.show()
 
 ## 11.4 
 繪製散佈圖
-```javascript
+``` 
 import random 
 import matplotlib.pyplot as plt 
 x=[] 
@@ -1529,7 +1538,7 @@ plt.show()
 繪製數學相關的圖表
 語法：math模組的使用
 import math
-```javascript
+``` 
 import math 
 import matplotlib.pyplot as plt 
 x=[] 
@@ -1556,7 +1565,7 @@ plt.show()
 
 **語法：利用NumPy
 import numpy as np**
-```javascript
+``` 
 import numpy as np 
 import matplotlib.pyplot as plt 
 x=np.arange(0.0,2.5,0.05)* np.pi 
@@ -1577,7 +1586,7 @@ plt.show()
 進行線性回歸
 **語法：進行線性回歸的模組
 from sklearn import linear_model**
-```javascript
+``` 
 from sklearn import datasets 
 from sklearn import linear_model 
 from sklearn.model_selection import train_test_split 
@@ -1605,7 +1614,7 @@ plt.show()
 進行聚類分析
 語法：用於進行聚類分析的模組
 from sklearn import cluster
-```javascript
+``` 
 from sklearn import datasets 
 from sklearn import cluster 
 import matplotlib.pyplot as plt 
