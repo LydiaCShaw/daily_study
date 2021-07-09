@@ -2,7 +2,11 @@
 layout: home-page
 ---
 {% include calculate_relative_base.html %}
-
+    <style>
+        body {
+            cursor: url(https://github.com/LydiaCShaw/LydiaShaw.github.io/blob/gh-pages/cur2.png?raw=true),auto;
+        }
+    </style>
 <ol class="post-card-box clearfix">
   {% for post in paginator.posts %}
   {% include remove_double_slash.html %}
