@@ -56,7 +56,7 @@ To efficiently exploit the potential of several millions of droplets that can be
  Antibiotic susceptibility testing of nine different antibiotics and the determination of the minimal inhibitory concentration of a specific antibiotic against a laboratory strain of Escherichia coli are presented as a proof-of-principle.
  It is demonstrated that this method allows successful encoding and decoding of 20 different experimental conditions within a large droplet population of more than 105 droplets per condition. The decoding strategy correctly assigns 99.6% of droplets to the correct condition and a method for the determination of minimal inhibitory concentration using droplet microfluidics is established. The current encoding and decoding pipeline can readily be extended to more codes by adding more bead colors or color combinations.
  
- ## Reference
+## Reference
  [1]Qingyu Li.(2019) Programming Language Development for Microfluidic Design.Technical University of Munich Department of Informatics
 [2]S. Allazetta, A. Negro, M. P. Lutolf.(2017).Microfluidic Programming of Compositional Hydrogel Landscapes. Macromol. Rapid Commun.1700255.
 [3]Svensson, C. M., Shvydkiv, O., Dietrich, S., Mahler, L., Weber, T., Choudhary, M., Tovar, M., Figge, M. T., & Roth, M. (2019). Coding of Experimental Conditions in Microfluidic Droplet Assays Using Colored Beads and Machine Learning Supported Image Analysis. Small (Weinheim an der Bergstrasse, Germany), 15(4), e1802384. https://doi.org/10.1002/smll.201802384
