@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: SSH2 construct(Struts2+spring+hibernate)
+title: SSH2 construct
 date:   2021-07-09 00:46:20 -0600
 description: SSH project
 img: posts/stock/SSH.png
@@ -11,6 +11,7 @@ author: jay_ou
 github:  jay_ou
 mathjax: yes
 ---
+Struts2+spring+hibernate
 ### 1. Create a Maven project
 ### 2.  Generate web.xml
    click 'Deployment Descriptor' in project menu，choose Grenerate Deployment Descriptor Stub
@@ -278,6 +279,7 @@ hibernate.cfg.xml
 </hibernate-configuration>
 ```
 ### 9. configure struts2
+```
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE struts PUBLIC
 	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
