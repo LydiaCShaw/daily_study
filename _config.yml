@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Lydia Shaw # add your name
-author-pic: ./assets/img/Myself_Neon.png
+author-pic: "/assets/img/Myself_Neon.jpg"
 about-author: Engineer, programmer, researcher. Avid learner with diverse interests in coding, machine learning, image processing,biomedical engineering. 
 
 # Contact links
@@ -34,9 +34,11 @@ email: LydiaCShaw@gmail.com # Add your Email address
 phone: (852)68816430,(86)18512469706# Add your Phone number
 website: https://www.lydiashaw.asia # Add your website
 
+# Newsletter
+mailchimp: "https://gmail.us6.list-manage.com/subscribe/post?u=28b3a402c9a00ce85abebfdf0&amp;id=cc7ec01e12"
 
 # Disqus
-discus_identifier: amaynez-github-io # Add your discus identifier
+discus_identifier: LydiaSheung # Add your discus identifier
 comments_curtain: yes # leave empty to show the disqus embed directly
 
 # Tracker
