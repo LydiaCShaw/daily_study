@@ -50,8 +50,7 @@ In recent year, the use of Finite Element Method to study scoliosis has become v
 CT and X ray films are often used to obtain raw data, and then authors obtained a spine model through three-dimensional reconstruction technology. Due to the complexity of skeletal structure, as figure 4A shown, authors tend to simplify its geometric firstly for the next processing.
 ![image2](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210711/90f083146409b3dc31a9280874734799/90f083146409b3dc31a9280874734799.png)
 ==Figure. Finite Element model 
-A.Simplified geometric model B.Spine finite element model C. Double-layer bone model
-D. Boundary condition model E.Stress distribution model F. Displacement stress distribution model #00BCD4==
+A.Simplified geometric model B.Spine finite element model C. Double-layer bone model D. Boundary condition model E.Stress distribution model F. Displacement stress distribution model #F44336== 
 
 As figure C shown, considering the two-layer structure of the bone, authors made the outer layer compact and the inner layer loose when establishing the finite element model.There is interaction between the vertebrae, and it is also contact with the cartilage. These conditions are defined in the software, which adds boundary conditions to the model (figure D). After adding the related calculation formulas of stress and strain, the values are distinguished on the picture with different colors (figure E,F).
 
@@ -70,7 +69,7 @@ According to some AIS treatment instruments mentioned above, the generation of t
 Therefore, in this study, authors aimed to discover the relationship between the weakening of the concave side muscles and the improvement of AIS. ROM, stress distribution and growth plates are combined and analyzed together to construct an upright spine musculoskeletal finite element model.
 In 2019, *Kamal et al.* proposed an optimization algorithm to estimate the muscle force and reaction torque in the standing posture to meet the stability conditions of the musculoskeletal model of the AIS spine.
 The model used in the study was taken from the EOS imaging system of a teenager. He is 11 years old, 136 cm tall, 31 kg, and the lumbar lordosis angle and Cobb's angle are 26.2 and 24.4 respectively.In the finite element model, the stress distribution of L1-L4 vertebrae was demonstrated and the result has shown the following figure.
-![image5](/posts/stock/AIS.png)
+![image5](./assets/img/posts/stock/AIS.png)
 Experiment was divided into five different models. Authors made unilaterally weakened muscles in (iii,iv and v). MFL is short of multififidus lumborum, LGPT is the concave-side longissimus thoracis pars thoracic. They are two effective muscles for the spine.
 The results are shown that compared to weakening of the MFL muscle in (iii), the (iv and v)model leaded greater changes which means LGPT muscle interacts the force of paraspinal muscles more effectively.Therefore, it can be seen that only unilaterally weakening the strength of the MFL muscle may significantly change, while unilaterally weakening the LGPT may shift the scoliosis from the concave side to the convex side. Meanwhile, unilaterally weakening the LGPT muscles on the concave side, the strength of the outer back muscles can be observed that increasing than before, which is a good phenomenon so that even if the muscle is weakened unilaterally, stability can be guaranteed.
 Meanwhile, the experiment tried to focus on the equivalent reaction forces and moments and calculated the muscle forces by the finite element model. ROM and Intradiscal pressure data were also be demonstrated in the article.
