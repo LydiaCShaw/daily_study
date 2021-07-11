@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Lydia Shaw # add your name
-author-pic: "/assets/img/Myself_Neon.jpg"
+author-pic: Myself_Neon.jpg
 about-author: Engineer, programmer, researcher. Avid learner with diverse interests in coding, machine learning, image processing,biomedical engineering. 
 
 # Contact links
