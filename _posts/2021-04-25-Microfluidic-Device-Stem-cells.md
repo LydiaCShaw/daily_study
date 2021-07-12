@@ -6,7 +6,7 @@ title:  Microfluidic Device and Stem cells
 date:   2021-04-25 13:32:20 -0600
 description: Microfluidic device can finish some manipulation so that it is applied in stem cells study.
 img: posts/20210425/microfluidic chips.png 
-tags: [microfulidic chips, stem cells, microfulidic device]
+tags: [microfluidic chips, stem cells, microfluidic device]
 author: Lydia Shaw
 github:  LydiaCShaw
 mathjax: yes
