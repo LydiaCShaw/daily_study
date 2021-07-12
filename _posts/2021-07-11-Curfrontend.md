@@ -65,8 +65,16 @@ CSS can generate a bunch of different mouse cursors:
 |--|--|
 |Inherited:	|yes|
 |Version:	|CSS2|
-|JavaScript syntax:|object.style.cursor="crosshair"|
-|HTML syntax: |``` <span style="cursor:*">text or other element</span>```|
+
+JavaScript syntax:
+```
+object.style.cursor="crosshair"
+```
+HTML syntax: 
+```
+<span style="cursor:*">text or other element</span>
+```
+
  [* ]can be replaced by the following properties.
  
  |property|instruction|
@@ -89,6 +97,7 @@ CSS can generate a bunch of different mouse cursors:
 |cursor:not-allowed;|cursor:not-allowed;|
 |cursor: progress; cursor: default;|The default cursor (often an arrow)|
 |cursor: url(' # ');|The url of a custom cursor to be used. Note: Always define a generic cursor at the end of the list in case none of the url-defined cursors can be used|
+
 ## Example
 Here is an example to set a custom icon. If one imports local files, the ‘.cur’ format is better.
  ```javascript
