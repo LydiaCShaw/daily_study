@@ -78,6 +78,56 @@ estimating Cobb angles. Algorithm 2 automatically calculates the Cobb angle by a
 ![image3](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/12cc961662a943e4acf71392d158342b/12cc961662a943e4acf71392d158342b.jpg)
 *From input X-ray image (left), to segmentation mask prediction (middle), to vertebrae identification and scoliosis measurement (right) in our pipeline.*
 
+## U-Net + resNet
+U-net key point detection + resNet classification
+One of the problems faced is that one can locate the approximate target location, but the spine has many similar structures, which leads to the phenomenon of skipping at the beginning of the prediction. Therefore, imagine an improved Loss, which mainly uses the same distance between the points. There is a constraint on the distance, so this distance is added to Loss.Author named him posiLoss. Later, he saw a similar improvement in a paper.
+
+```javascript
+class posiLoss(nn.Module):
+    def __init__(self,alph=50, beta=100):
+        super(posiLoss, self).__init__()
+        self.alph = alph
+        self.beta = beta
+        self.criterion_part1 = nn.MSELoss()
+        self.sz = 11
+        self.topKposi = 5
+
+    def posiLoss(self, pred_heatmap, gt_heatmap):
+        n,c,h,w = pred_heatmap.shape
+        n_loss = list()
+        for n_idx in range(n):
+            # print("n:",n)
+            pred_posiRation = self.relationPosi(pred_heatmap[n_idx])
+            gt_posiRation = self.relationPosi(gt_heatmap[n_idx])
+            psoiLossL = torch.Tensor(torch.abs(torch.sub(pred_posiRation, gt_posiRation))).cuda()
+            # print("psoiLoss", psoiLossL)
+            ret_psoiLoss = torch.sum(torch.topk(psoiLossL, self.topKposi).values)
+            # print("ret_psoiLoss", ret_psoiLoss)
+            n_loss.append(ret_psoiLoss)
+        ret_n_loss = torch.mean(torch.Tensor(n_loss))
+        return ret_n_loss
+
+    def relationPosi(self, heatmap):
+        # print(heatmap.shape)
+        ret = list()
+        ret.append(self.criterion_part1(heatmap[0], heatmap[1]))
+        for i in range(1, self.sz-1):
+            # print("i:",i)
+            up = self.criterion_part1(heatmap[i-1], heatmap[i])
+            down = self.criterion_part1(heatmap[i+1], heatmap[i])
+            # print("down",down)
+            ret.append(torch.mean(torch.Tensor((up, down))))
+        ret.append(self.criterion_part1(heatmap[self.sz-1], heatmap[self.sz -2]))
+        return torch.Tensor(ret)
+
+    def forward(self, pred_heatmap, gt_heatmap):
+        mse_loss = self.criterion_part1(pred_heatmap,gt_heatmap)
+        # print("mse_loss", mse_loss)
+        posiLosss = self.posiLoss(pred_heatmap,gt_heatmap)
+        # print("posiLosss",posiLosss)
+        return self.alph*mse_loss+self.beta*posiLosss
+```
+
 
 
 ## Reference
@@ -86,3 +136,8 @@ estimating Cobb angles. Algorithm 2 automatically calculates the Cobb angle by a
 [2]Haoliang Sun, Xiantong Zhen, Chris Bailey, Parham Rasoulinejad, Yilong Yin, and Shuo Li. Direct Estimation of Spinal Cobb Angles by Structured Multi-Output Regression. The 25th international conference on Information Processing in Medical Imaging (IPMI), Boone, USA, 2017.
 
 [3]Hongbo Wu, Chris Bailey, Parham Rasoulinejad, and Shuo Li. Automatic Landmark Estimation for Adolescent Idiopathic Scoliosis Assessment using BoostNet. 20th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Quebec City, Canada. 2017.
+
+[4]Abdullah-Al-Zubaer Imran,Chao Huang,Hui Tang, Wei Fan, Kenneth M.C. Cheung, Michael To,Zhen Qian, and Demetri Terzopoulos.Analysis of Scoliosis From Spinal X-Ray Images
+
+[5]CSDN author dlvector
+https://blog.csdn.net/github_38148039/article/details/109562997
