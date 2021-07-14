@@ -5,7 +5,7 @@ show_date: true
 title: Some methods of recognition of scoliosis
 date:   2021-07-14 21:32:20 -0600
 description: Record some articles that use different methods to recognition spine
-img: posts/stock/esp.png
+img: posts/stock/11.jpg
 tags: [AIS,scoliosis,coding,recognition,vertebrae segmetation]
 author: Lydia Shaw
 github:  LydiaCShaw
