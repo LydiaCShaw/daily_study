@@ -12,41 +12,59 @@ github:  LydiaCShaw
 mathjax: yes
 ---
 ## What is Scoliosis?
-Scoliosis is a three-dimensional deformity of the spine, including sequence abnormalities in the coronal, sagittal, and axial positions. Generally speaking, it means more than one segment within the full length of the spine deviate from the body's midline, forming an arc-shaped deformity of the spine. In the sagittal plane, patients tend to have a rotation of the vertebral body. Its prevalence in the population is between 2% and 3%. As for the overall prevalence of AIS, the range is 0.47%-5.2%. The incidence and severity of girls are much higher than boys.When studying AIS, the malignant shape of the vertebrae also included the deformation of the thorax.
+Scoliosis is a three-dimensional deformity of the spine, including sequence abnormalities in the coronal, sagittal, and axial positions.
+
+Generally speaking, it means more than one segment within the full length of the spine deviate from the body's midline, forming an arc-shaped deformity of the spine.
+
+In the sagittal plane, patients tend to have a rotation of the vertebral body. Its prevalence in the population is between 2% and 3%. As for the overall prevalence of AIS, the range is 0.47%-5.2%. The incidence and severity of girls are much higher than boys.When studying AIS, the malignant shape of the vertebrae also included the deformation of the thorax.
 ## What is its pathogenesis?
 Reviewing multiple articles of scoliosis, there is still no unified conclusion on its pathogenesis. Some researchers have proposed some potential pathogenesis, which includes asymmetry of bone growth regulation and bone susceptibility to deformation. Meanwhile, the abnormal passive or disturbed active maintenance of the spinal system may lead to AIS as well.
 ## Diagnosis
 For AIS, early diagnosis is very important. Children with AIS often have uneven shoulders and bilateral back asymmetry when bending over. Therefore, the early diagnosis usually rely on parents and school doctors. Using the traditional assessment which is called Adam test can determine the patient’s condition. For more detailed diagnosis depends on imaging diagnosis.
-Traditional imaging examinations often used X-ray films, however, considering the radiation dose, CT, MRI, and ultrasound are also used by researchers. In recent years, the EOS system has become more and more popular for its three-dimensional imaging are highly correlated with CT images, which is proved that the reliability.
+Traditional imaging examinations often used X-ray films, however, considering the radiation dose, CT, MRI, and ultrasound are also used by researchers. 
+
+In recent years, the EOS system has become more and more popular for its three-dimensional imaging are highly correlated with CT images, which is proved that the reliability.
 ## Assessment
 Cobb's angle and Lenke's classification are widely used to assess the severity of scoliosis. According the Cobb's angle, doctors determine whether to perform surgery. Generally speaking, if Cobb's angle above 5°is considered to be mild. If the angle is between 5°-9°, follow-up is required at least once every six months. For those with an angle between 10°and 20°,observation is recommended. 20°-45° belongs to moderate curve, which needs some non-operative treatment. Angle above 45°is considered as severe curve,doctors may be required to specify the surgical plan and predict the outcome.
+
 In addition, researchers have used Moire photographs to evaluate the symmetry of the hips, shoulders, double lumbar spine, bilateral iliac spine, and whether the spinous process line deviates from the central axis etc., to determine whether there is scoliosis. However, the use of Moire imaging for all census patients is time-consuming, labor-intensive, and costly. This diagnostic method is only widely used in laboratories. At this stage, the most commonly used assessment process for scoliosis in clinical work is still Adam flexion test and spine X-ray examination to measure Cobb’s angle.
 ## Treatment
 The treatment of scoliosis can be divided into two categories: non-surgical treatment and surgical treatment which is determined by Cobb's angle. Common non-operative treatment methods include orthosis and exercise, manipulation, electrical stimulation or hormone etc. Some non-operative equipment utilizes biomechanics that can generate tensile and compressive stresses on the convex side of the spine. This process can promote the healing of the concave side bone and correct the deformity during the growth process.
+
 Generally, as the decision mentioned above, AIS within 20 degrees may not be treated first but be closely observed. If it becomes more than 5 degrees per year, brace treatment should be performed. Adolescent idiopathic scoliosis with moderate curve required non-surgical treatment immediately. However, more than 60% of patients in this group will develop and aggravate to severe curve. Therefore, doctors may tend to perform surgery when the chest curve is greater than 40 degrees or when the thoracic-lumbar curve is greater than 35 degrees. Meanwhile, patents who have obvious back pain or nerve compression symptoms also require operation immediately.
 ## Biomechanics of AIS
 
 *Stokes et al.* summarized the biomechanics factors that includes tissues properties, shape of the structure, spine loading & support conditions,collagen content & distribution and joint laxity risk of progression.
 ### Intervertebral Load
-Now, we can see, that is the image of segmented EMG in a 256-points window from one subject performing 10 hand motions, when we do the feature extraction, 40 segmented signals for each motion had been prepared, and the flow chart is so clearly that we can see the next step, we just need to calculate the six values and combine them, the specific functions I have illustrated on the right hand side. 
+
 Researchers suggested paravertebral muscle strength that the greater the Cobb’s angle, the greater the difference in muscle strength between convex and concave sides. They evaluated 132 subjects with mild, moderate, and severe curve. By using the software, they realized three-dimensional reconstruction of the image to verify the analysis. 
+
 The results confirmed that the trunk muscles are more active on the convex side of the scoliosis. This progress would increase when the curve become more severe. Meanwhile, the intervertebral lateral shear was proved that correlated with the severity of the scoliosis.
-At this progress, rather than X-ray films, *Barba et al.* chose EOS imaging system to measure Cobb’s angle. The activation rate of the convex and concave sides of scoliosis is related to the surface electromyography. As figure 3 shown,the black dots indicate the mass of center. The location of these black dots proves that there is an asymmetrical load on the curvature of the spine. The asymmetric load provides asymmetric growth, further increasing the curvature of the spine, forming a vicious circle.
+
+At this progress, rather than X-ray films, *Barba et al.* chose EOS imaging system to measure Cobb’s angle. The activation rate of the convex and concave sides of scoliosis is related to the surface electromyography. The black dots indicate the mass of center. The location of these black dots proves that there is an asymmetrical load on the curvature of the spine. The asymmetric load provides asymmetric growth, further increasing the curvature of the spine, forming a vicious circle.
 The biomechanical indicators predicted in this study mainly include trunk muscle activation and the relationship between intervertebral force and static upright posture. The calculated biomechanical parameters can be further used.
+
 ### Pelvis Rotation
+
 The upper spine is connected to the shoulder blades and thorax, the lower is connected to the pelvis. Therefore, scoliosis can affect the rotation of the pelvis. Therefore, some articles proposed a hypothesis that whether there is a correlation between AIS and pelvic rotation.
+
 Asymmetrical muscle strength on both sides will further aggravate the scoliosis angle. In terms of the symmetry of the pelvis, *Gum et al.* found that the pelvis in AIS patients did not maintain a neutral position in the horizontal plane but rotated, and the direction of rotation was highly related to the direction of thoracic spine bending. The non-neutral position of the pelvis and the imbalance of the muscle strength on both sides of the spine will inevitably affect the stress transmission of the lower limbs, and then cause a series of changes in the skeletal muscle system of the lower limbs.
+
 The method of measuring static lateral rotation of the pelvis has proven to be reliable. In AIS patients, the transverse plane of the pelvis has a significant rotation in the direction of thoracic curvature. For patients with AIS with large or scattered curves of thoracolumbar/lumbar spine, there is no correlation between pelvic rotation and the direction of the curve. The static transverse plane pelvic rotation is the compensatory curve of the thoracic scoliosis curve.
- ### Scapular Kinematics
+### Scapular Kinematics
  Shoulder elevation is a complex movement that occurs due to the combination of movement of the humerus, clavicle, spine and scapular. Considering the closed anatomical relationship between the scapula and thorax, the position and orientation of the scapula in AIS patients may change. Structural changes may affect shoulder and upper limb function.
+ 
 In the research of *Elif et al.*, 33 subjects participated the study. 19 of them are AIS patients, the rest are healthy subjects. During the experiment, 5 sensors were attached to the participants’ acromion at the flattest part, the outer lateral side of the triceps abdomen and the skin of the T1 thoracic spine. Data will be collected multiple times when the subject's scapula orientation degree is 30, 60, 90 and 120.
+
 Compared with the control group, the scapula of AIS patients is more inclined to rotate downward and tilt forward on the convex side; in contrast, it is more inclined to rotate downward and tilt backward on the concave side.
 ![image](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210711/7eec8cdbfbbd4eef1f2c7df501f13c5a/7eec8cdbfbbd4eef1f2c7df501f13c5a.png)
+
 It is undeniable that, for most articles focus on the correlation between lower limb and AIS, this study provides new information. However, it is notable that, the cobb’s angle in AIS group is 32.6°,which means, there are no relevant studies to support patients with severe scoliosis with larger Cobb's angle.
 ### Biomechanics Properties
 *Rustenburg et al.* tried to assess the biomechanical properties of spines with scoliosis. The main properties include the ROM ( range of motion) in three loading cycles. At the progress of study, the ROM of flexion/extension (FE), lateral bending (LB) and axial rotation (AR) are calculated. Meanwhile, the stiffness in neutral zone(NZ) and elastic zone(EZ) and hystersis are calculated as well.
 
 In recent year, the use of Finite Element Method to study scoliosis has become very popular. Rustenburg et al. also input the data to finite element model. Some software such as HyperMesh can be used to mesh and construct a finite element model of the spine and cartilage as figure 4B shown. Subsequently, the force of the spine can be analyzed by finite element analysis so that stress, strain and related data can be used for research.
+
 CT and X ray films are often used to obtain raw data, and then authors obtained a spine model through three-dimensional reconstruction technology. Due to the complexity of skeletal structure, as figure 4A shown, authors tend to simplify its geometric firstly for the next processing.
 ![image2](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210711/90f083146409b3dc31a9280874734799/90f083146409b3dc31a9280874734799.png)
 ==Figure. Finite Element model 
@@ -56,45 +74,63 @@ As figure C shown, considering the two-layer structure of the bone, authors made
 
 ![image3](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210711/f5ac0aec3d7f94fe496698715e244517/f5ac0aec3d7f94fe496698715e244517.png)
 In this article, 10 subjects was participated in and taken a X-ray film to measure the Cobb’s angle. Compared to the finite element research of *Liu et al*. mentioned above, *Rustenburg et al.* used corpses to carry out detailed study. As figure shown, the set up can measure the rotation of spine so that ROM can be recorded.
+
 ROM records in angles that each spine segment can be obtained by Euler decomposition. In order to determine the correlation between Cobb’s angle(CA) and ROM and stiffness, authors used the Spearman’s correlation coefficient to calculate.
 ![image4](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210711/437bd18e0e542936e663884794136c59/437bd18e0e542936e663884794136c59.png)
 When the data was be recorded in computer, IBM SPSS was used to data analysis. As table shown, U tests were utilized to test for differences in neutral zone stiffness. Meanwhile, ANOVA with post-hoc unpaired T tests were utilized for differences in ROM.
 
 The mean Cobb’s angle can be calculated 20.7. From the value (p<0.05), there was a positive correlation between Cobb’s angle and ROM in AR. There was a negative correlation between Cobb’s angle and neutral zone stiffness on non-apex and apex segments in AR.
+
 Due to the use of corpses, X rays films recorded the morphological structure in the supine position. Therefore, utilizing these films to measure the Cobb’s angle, there will be some errors when authors tried to study the biomechanical data of the spine in the upright position.
 ### Stress Distribution
 There is another research used the finite element model for stress distribution in AIS patients. *Zeinab et al.* hypothesized that proper weakening of the concave muscles of the spine can slow down the progression of AIS. Some articles pointed out that a unilateral delay in muscle growth may lead to asymmetry in muscle distribution, leading to worsening of scoliosis.
+
 According to some AIS treatment instruments mentioned above, the generation of tensile and compressive stresses on the convex side of the spine will indeed slow down the deterioration of AIS. 
 *Mehlman et al.* hypothesized that appropriately weakening the muscles on the concave side can improve AIS deformities during growth. Among them, the two most effective muscles for the spine are the longissimus pectoralis and the polyfidus psoas.
+
 Therefore, in this study, authors aimed to discover the relationship between the weakening of the concave side muscles and the improvement of AIS. ROM, stress distribution and growth plates are combined and analyzed together to construct an upright spine musculoskeletal finite element model.
+
 In 2019, *Kamal et al.* proposed an optimization algorithm to estimate the muscle force and reaction torque in the standing posture to meet the stability conditions of the musculoskeletal model of the AIS spine.
 The model used in the study was taken from the EOS imaging system of a teenager. He is 11 years old, 136 cm tall, 31 kg, and the lumbar lordosis angle and Cobb's angle are 26.2 and 24.4 respectively.In the finite element model, the stress distribution of L1-L4 vertebrae was demonstrated and the result has shown the following figure.
 ![image5](./assets/img/posts/stock/AIS.png)
 Experiment was divided into five different models. Authors made unilaterally weakened muscles in (iii,iv and v). MFL is short of multififidus lumborum, LGPT is the concave-side longissimus thoracis pars thoracic. They are two effective muscles for the spine.
+
 The results are shown that compared to weakening of the MFL muscle in (iii), the (iv and v)model leaded greater changes which means LGPT muscle interacts the force of paraspinal muscles more effectively.Therefore, it can be seen that only unilaterally weakening the strength of the MFL muscle may significantly change, while unilaterally weakening the LGPT may shift the scoliosis from the concave side to the convex side. Meanwhile, unilaterally weakening the LGPT muscles on the concave side, the strength of the outer back muscles can be observed that increasing than before, which is a good phenomenon so that even if the muscle is weakened unilaterally, stability can be guaranteed.
+
 Meanwhile, the experiment tried to focus on the equivalent reaction forces and moments and calculated the muscle forces by the finite element model. ROM and Intradiscal pressure data were also be demonstrated in the article.
+
 In conclusion, reducing the compressive stress on the concave side by weakening the strength of the LGPT muscle can slow down the progress of scoliosis. By utilizing the optimum algorithm, it can be used in clinic in the future.
 
 ### Plantar Presuure
 *Horváth et al.* ever proposed an article of gait analysis for Skewed patients which is proved that the plantar pressure can be intuitively reflected the imbalance on body detailed including functions such as muscle strength and movement control.
 Therefore, in recent years, some scholars have studied the static balance and plantar pressure changes of AIS patients. 
+
 Plantar pressure refers to the force between the sole of the human body and the contact surface per unit area. It can well complete the inspection of various plantar mechanical parameters. Specifically, the plantar pressure test can be divided into static and dynamic two modes. 
+
 The main observation indicators of the static mode include the average plantar pressure and half-foot pressure of the subject, and the dynamic mode mainly focus on the peak pressure, impulse, and maximum pressure peak appearance time of each area of the plantar during exercise. 
 The research of *Solomonow et al.* proved that the pressure center of the foot can affect the mechanical parameters of the hip and waist muscle groups. In other words, the plantar pressure can reflect the mechanical conditions of the lower limbs and trunk, the body posture and the symmetry of the spine.
 The measurement of plantar pressure distribution can provide a lot of useful information for studying the biomechanics of AIS patients in the analysis of the motion state of the joints, bones and ligaments of the lower limbs and the dynamic and static mechanical characteristics of the foot. 
+
 Some researchers compared the gait and balance function of AIS patients with normal people. The results of the study showed that the dynamic plantar pressure of the feet of AIS patients was significantly unbalanced during walking. Meanwhile, the ability of AIS patients to kick off the ground at the end of the support phase was all significantly weaker than the healthy control. 
 In addition, the cushioning ability of the heel during the initial phase of the biped support is not balanced.
+
 *Lee et al.* performed plantar pressure tests on 10 patients with AIS patients whose Cobb's angle is above 10°.Subsequently, they were subjected to spinal stability training and Multi-roll functional training respectively. At that moment, the plantar pressure was measured again after training. The results showed that, after the spinal stability training, the plantar pressure distribution area of the feet has changed significantly, and the balance function of the body has been improved. 
+
 However, the study did not involve the correlation between the scoliosis angle of the AIS patients and the values of the dynamic and static plantar pressure, and the changes in the plantar pressure before and after the training of the AIS patients were not analyzed closely, which is difficult to explain the plantar pressure. The evaluation method of stress testing is widely used to evaluate the feasibility of AIS treatment. 
+
 In addition, there is another study on joint diseases such as the hip, knee, and ankle of the lower extremities can also cause plantar pressure asymmetry, and cause compensatory or adaptive scoliosis by affecting the tilt angle of the pelvis.
 In conclusion, it is notable that these articles found that the plantar pressures of S-type thoracolumbar scoliosis patients are symmetrical, which brings enlightenment. Whether plantar pressure analysis is applicable to all types of scoliosis patients remains to be verified.
+
 ### Ligaments Properties
 Compared with normal adolescents, AIS patients tend to have low kyphotic thoracic spine. This may be caused by the laxity of the posterior ligament in patients with scoliosis.
 *Beaubien et al.* pointed out that, in surgical treatment, there is a relationship between spinal deformity and the quality of the supraspinous ligament (SSL) and interspinous ligament (ISL). Patients with scoliosis have thicker ISL and SSL, and the spinous processes are relatively perpendicular to the long axis of the spine.
 
 Therefore, in this article, authors tried to explore ligament differences and quantify the relationship between these structures to prove the biomechanical properties of ligaments. In this experiment, 14 patients with AIS were selected. Each subject took coronal and sagittal spine X ray films before the operation in a standing position. To figure out the biomechanical properties of ligaments, subjects are requested to undergo surgery so that researchers harvested muscles and fascia from the tissues.
+
 During the experiment, the elastic modulus and stiffness of ISL/SSL were calculated. The study also evaluated their viscoelastic behavior. The comparison group of this experiment is 8 cases of kyphosis group. The study showed that there was no statistically significant difference in ISL and SSL ligaments between the two groups of patients. 
+
 According *Fujiwara et al.*, the main function of ISL is to resist excessive buckling loads. The integrity of ISL and SSL is important in preventing scoliosis and kyphosis and instability. When a stress of 15Nm is applied, ISL and SSL have average strains of 17% and 18% respectively, which means the extra tension on the convex side of the spine in AIS patients will cause ligaments to strain and relax.
+
 In conclusion, the main limitation of this article is the small sample size. Therefore, authors have to choose repeatability test. However, due to the ligament was damaged during the relaxation test, even some may be damaged in clinic, the data differences in repeatability test of the same subject occurred. Meanwhile, it lacked data for normal ISL/SSL ligament laxity.
 
 ## Conclusion

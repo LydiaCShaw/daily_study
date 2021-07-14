@@ -16,8 +16,10 @@ During a couple few months ago, I was building my own websites.I bought two doma
 ## What is frontend?
 
 When it comes to make webpage, development of frontend mainly includes HTML, CSS and JS three different file types. If you want to make an app in cell phones, you may need to learn XML.
+
 ![image1](./assets/img/posts/20210711/1.jpg)
 HTML is the short of HyperText Markup Language,which is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+
 The combination of HTML, CSS and JS forms diversity website pages.
 ## CSS cursor Property
 CSS can generate a bunch of different mouse cursors:
