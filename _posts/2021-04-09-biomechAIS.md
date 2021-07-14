@@ -41,7 +41,7 @@ Researchers suggested paravertebral muscle strength that the greater the Cobb’
 
 The results confirmed that the trunk muscles are more active on the convex side of the scoliosis. This progress would increase when the curve become more severe. Meanwhile, the intervertebral lateral shear was proved that correlated with the severity of the scoliosis.
 
-At this progress, rather than X-ray films, *Barba et al.* chose EOS imaging system to measure Cobb’s angle. The activation rate of the convex and concave sides of scoliosis is related to the surface electromyography. As figure 3 shown,the black dots indicate the mass of center. The location of these black dots proves that there is an asymmetrical load on the curvature of the spine. The asymmetric load provides asymmetric growth, further increasing the curvature of the spine, forming a vicious circle.
+At this progress, rather than X-ray films, *Barba et al.* chose EOS imaging system to measure Cobb’s angle. The activation rate of the convex and concave sides of scoliosis is related to the surface electromyography. The black dots indicate the mass of center. The location of these black dots proves that there is an asymmetrical load on the curvature of the spine. The asymmetric load provides asymmetric growth, further increasing the curvature of the spine, forming a vicious circle.
 The biomechanical indicators predicted in this study mainly include trunk muscle activation and the relationship between intervertebral force and static upright posture. The calculated biomechanical parameters can be further used.
 
 ### Pelvis Rotation
