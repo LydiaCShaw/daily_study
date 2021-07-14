@@ -65,18 +65,18 @@ BoostNet validation was conducted on a dataset consisting of 481 spinal anterior
 
 Their experimental resulted from a set of anterior-posterior spine X-Ray images indicate that their model, which achieveed an average Dicescore of 0.993, promiseed to be an effective tool in the identification and labeling of spinal vertebrae, eventually helping doctors in the reliable estimation of scoliosis. Moreover, estimation of Cobb angles from the segmented vertebrae further demonstrates the effectiveness of our model.
 ![image1](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/d33cd0060c16929e661df84b1eec8dc7/d33cd0060c16929e661df84b1eec8dc7.jpg)
-* Overview of our framework for calculating the Cobb angle in a spine X-Ray through segmentation, labeling, and identification of the relevant vertebrae.
-After determining the most tilted vertebrae above and below the apex, tangents are drawn by extending the upper edge of the upper vertebra and lower edge of
-the lower vertebra. From these tangents, the Cobb angles are calculated and the scoliosis can be classified.
+*Overview of our framework for calculating the Cobb angle in a spine X-Ray through segmentation, labeling, and identification of the relevant vertebrae.After determining the most tilted vertebrae above and below the apex, tangents are drawn by extending the upper edge of the upper vertebra and lower edge of the lower vertebra. From these tangents, the Cobb angles are calculated and the scoliosis can be classified.*
 ### Approach
 ① Vertebrae Segmentation and Labeling
 They proposed an algorithm 1 that training for vertebrae segmentation from spine X-Ray images. Here they proposed a progressive U-Net with some careful adjustments.Their model had an encoder and a decoder with skip connections. In each encoder layer, two 3 × 3 convolutions are followed by instance normalization, ReLU activation, and a 2×2 max-pooling. A dropout is applied in every encoder and decoder stage of the network. They generated side-outputs in every stage of the decoder.
 ![image11](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/1d362ba76ae8b66052c53f458c3b76d0/1d362ba76ae8b66052c53f458c3b76d0.jpg)
+* Architecture of our segmentation network (Progressive U-Net): Side outputs at three different stages of the decoder are generated and progressively added to the next stage side-output. The output from the third side-output is added to the last stage before the final convolution to generate the final segmentation output.*
 ②Measurement of Scoliosis
 Their pipeline made use of the vertebrae segmentation in
 estimating Cobb angles. Algorithm 2 automatically calculates the Cobb angle by analyzing the contours from the segmented mask. When well-separated from others, each of the contours represents a vertebra relevant to the measurement of scoliosis.
 ![image2](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/f154a8b20729327aefd3073a2d7597eb/f154a8b20729327aefd3073a2d7597eb.jpg)
 ![image3](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/12cc961662a943e4acf71392d158342b/12cc961662a943e4acf71392d158342b.jpg)
+*From input X-ray image (left), to segmentation mask prediction (middle), to vertebrae identification and scoliosis measurement (right) in our pipeline.*
 
 
 
