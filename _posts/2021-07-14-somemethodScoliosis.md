@@ -32,7 +32,7 @@ Formulates the prediction as a multi-output regression task.
 Kernel target alignment is used to improve performance by increasing the discriminative ability of the kernels.
 ### Approach
 The proposed framework extracts image features from spinal X-ray images and outputs coordinates, angles, and landmarks. The regression task predicts the coordinates and Cobb angles from the given input image features.
-![image1](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/854205ab15af4a97898ab67ad3f69ca6/854205ab15af4a97898ab67ad3f69ca6.png)
+![image1](.\assets\img\posts\20210714\ispine1.png)
 *figure shown the framework of the structured support vector regression (S2VR)*
 
 ![image2](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/9b7d174375f26da92d95c0e96f9a8c9e/9b7d174375f26da92d95c0e96f9a8c9e.png)
@@ -46,7 +46,7 @@ The BoostNet framework consists of three parts:
 ②Newly designed BoostLayer to remove deleterious outlier features.
 
 ③Spinal structured multi-output layer to alleviate the impact of small datasets.
-![image3](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/b18364602ec4454194ddab9a82b55c01/b18364602ec4454194ddab9a82b55c01.png)
+![image3](.\assets\img\posts\20210714\ispine3.png)
 *figure shown architecture of the BoostNet for landmark based AIS assessment. Relevant features are automatically extracted and any outlier features are removed by the Boost-Layer. A spinal structured multi-output layer is then applied to the output to capture the correlation between spinal landmarks.*
 
 ![image4](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/95317683d74ab4e72a54bee02128c6bf/95317683d74ab4e72a54bee02128c6bf.png)
@@ -64,7 +64,7 @@ BoostNet validation was conducted on a dataset consisting of 481 spinal anterior
 *Abdullah et al.* proposed an approach that was a carefully-adjusted U-Net model with progressive side outputs, which was an end-to-end segmentation model that provides a fully automatic and reliable segmentation of the vertebrae associated with scoliosis measurement. 
 
 Their experimental resulted from a set of anterior-posterior spine X-Ray images indicate that their model, which achieveed an average Dicescore of 0.993, promiseed to be an effective tool in the identification and labeling of spinal vertebrae, eventually helping doctors in the reliable estimation of scoliosis. Moreover, estimation of Cobb angles from the segmented vertebrae further demonstrates the effectiveness of our model.
-![image1](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/d33cd0060c16929e661df84b1eec8dc7/d33cd0060c16929e661df84b1eec8dc7.jpg)
+![image1](.\assets\img\posts\20210714\1.jpg)
 *Overview of our framework for calculating the Cobb angle in a spine X-Ray through segmentation, labeling, and identification of the relevant vertebrae.After determining the most tilted vertebrae above and below the apex, tangents are drawn by extending the upper edge of the upper vertebra and lower edge of the lower vertebra. From these tangents, the Cobb angles are calculated and the scoliosis can be classified.*
 ### Approach
 ① Vertebrae Segmentation and Labeling
@@ -75,7 +75,7 @@ They proposed an algorithm 1 that training for vertebrae segmentation from spine
 Their pipeline made use of the vertebrae segmentation in
 estimating Cobb angles. Algorithm 2 automatically calculates the Cobb angle by analyzing the contours from the segmented mask. When well-separated from others, each of the contours represents a vertebra relevant to the measurement of scoliosis.
 ![image2](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/f154a8b20729327aefd3073a2d7597eb/f154a8b20729327aefd3073a2d7597eb.jpg)
-![image3](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/12cc961662a943e4acf71392d158342b/12cc961662a943e4acf71392d158342b.jpg)
+![image3](.\assets\img\posts\20210714\3.jpg)
 *From input X-ray image (left), to segmentation mask prediction (middle), to vertebrae identification and scoliosis measurement (right) in our pipeline.*
 
 ## U-Net + resNet
