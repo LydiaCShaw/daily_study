@@ -14,7 +14,7 @@ mathjax: yes
 ## Two types of scoliosis
 First type: This type was characterized by anteposition of the right collarbone (clavicle) and marked asymmetry of the left half of the chest, as well as anteposition of the left costal arch. There was a rib hump at the back on the same side of the chest that had a clavicle deformation.
 Second type: in the case of anteposition of the left clavicle, all the features of the first type of deformity of the chest were mirrored on the opposite side.
-According the dataset of doctor *Valentyn* ,almost all the patients examined had shortening of the left leg and accordingly, right-sided (type 1) scoliosis. Shortening of the right leg and accordingly, left-sided scoliosis were present only in rare cases.
+Generally speaking, right-sided scoliosis is usually more frequently observed among right-handed persons and left-sided scoliosis  among left-handed persons.According the dataset of doctor *Valentyn* ,almost all the patients examined had shortening of the left leg and accordingly, right-sided (type 1) scoliosis. Shortening of the right leg and accordingly, left-sided scoliosis were present only in rare cases.
 ## Symptom 
 
 ### Shortening of the lower limb
@@ -39,7 +39,7 @@ Functional hypotrophy of the gluteal muscles on the side of the shortened leg ca
 Functional scoliosis is associated only with lateral curvature of the spine, while, actual or structural scoliosis consists not merely of a distortion, but also a rotation of the spine about its axis of wedge-modified vertebrae.
 
 ##  Anatomical aspects of the problem
-Vertebral column: The vertebral column(VC) consists of separate vertebrae, which are interconnected by intervertebral discs, joint and ligaments. The number of vertebrae varies between 32 and 35, and in rare cases, reaches 37 due to a larger number of sacral and coccygeal vertebrae. The VC includes 7 cervical vertebrae (vertebrae cervicales), 12 thoracic vertebrae (vertebrae thoracicae) and 5 lumbar vertebrae (vertebrae lumbales).
+Vertebral column: The vertebral column(VC) consists of separate vertebrae, which are interconnected by intervertebral discs, joint and ligaments. The number of vertebrae varies between 32 and 35, and in rare cases, reaches 37 due to a larger number of sacral and coccygeal vertebrae. The VC includes 7 cervical vertebrae (vertebrae cervicales), 12 thoracic vertebrae (vertebrae thoracicae) and 5 lumbar vertebrae (vertebrae lumbales). 
 
 ## Reference
 Valentyn Serdyuk. (2014).Scoliosis and spinal pain syndrome, new understanding of their origin and ways of successful treatment. ISBN:978-81-8193-116-0
