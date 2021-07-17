@@ -34,6 +34,9 @@ For people who has shorterning leg, the volume of both muscles becomes much larg
 
 Patients with severe scoliosis apart from showing such a decrease in the volume of one buttock, suffered from hypoplasia  of the pelvic bones.A possible explanation for this situations is  that shortening for  the leg since early childhood had caused a gradual increase of working hypotrophy in all soft or bone tissues.
 
+Functional hypotrophy of the gluteal muscles on the side of the shortened leg can be clearly observed even among children of 4-5 years of age. Two more features become noticeable among children of 10-12 years of age.
+① There is a delay of the pelvis and ② there is a marked decrease in the volume of soft tissues of the thigh and crus on the side of the shortened leg.
+Functional scoliosis is associated only with lateral curvature of the spine, while, actual or structural scoliosis consists not merely of a distortion, but also a rotation of the spine about its axis of wedge-modified vertebrae.
 
 
 
