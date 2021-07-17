@@ -38,7 +38,8 @@ Functional hypotrophy of the gluteal muscles on the side of the shortened leg ca
 ① There is a delay of the pelvis and ② there is a marked decrease in the volume of soft tissues of the thigh and crus on the side of the shortened leg.
 Functional scoliosis is associated only with lateral curvature of the spine, while, actual or structural scoliosis consists not merely of a distortion, but also a rotation of the spine about its axis of wedge-modified vertebrae.
 
-
+##  Anatomical aspects of the problem
+Vertebral column: The vertebral column(VC) consists of separate vertebrae, which are interconnected by intervertebral discs, joint and ligaments. The number of vertebrae varies between 32 and 35, and in rare cases, reaches 37 due to a larger number of sacral and coccygeal vertebrae. The VC includes 7 cervical vertebrae (vertebrae cervicales), 12 thoracic vertebrae (vertebrae thoracicae) and 5 lumbar vertebrae (vertebrae lumbales).
 
 ## Reference
 Valentyn Serdyuk. (2014).Scoliosis and spinal pain syndrome, new understanding of their origin and ways of successful treatment. ISBN:978-81-8193-116-0
