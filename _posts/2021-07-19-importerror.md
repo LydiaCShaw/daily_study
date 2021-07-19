@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: ImportError: cannot import name 'xx' from
+title: ImportError: cannot import name 'xx' 
 date:   2021-07-19 21:32:20 -0600
 description: there was an error when I was programming
 img: posts/20210719/cover.jpg
