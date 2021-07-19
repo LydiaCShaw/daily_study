@@ -11,7 +11,7 @@ author: Lydia Shaw
 github:  LydiaCShaw
 mathjax: yes
 ---
-Recently, I applied the spianl imaging dataset from [Tianchi](https://tianchi.aliyun.com/competition/gameList/activeList). I wanna tried the U-net algrithm that learned in CSDN. However, when I imported package pandas, there was a problem called: *ImportError: cannot import name 'DtypeArg' from 'pandas._typing'*. 
+Recently, I applied the spinal imaging dataset from [Tianchi](https://tianchi.aliyun.com/competition/gameList/activeList). I wanna tried the U-net algrithm that learned in CSDN. However, when I imported package pandas, there was a problem called: *ImportError: cannot import name 'DtypeArg' from 'pandas._typing'*. 
 ![errorimage](.\assets\img\posts\20210719\error.jpg)
 
 I was so confused and tried to searched the reason online.  In CSDN, I found one bloger said another error called:*ImportError: cannot import name 'wb'*. Although they were not the same problem, I guessed that both of them were resulted by the version of pandas.
