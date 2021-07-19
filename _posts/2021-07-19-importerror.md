@@ -6,7 +6,7 @@ title: ImportError: cannot import name 'xx' from
 date:   2021-07-19 21:32:20 -0600
 description: there was an error when I was programming
 img: posts/20210719/cover.jpg
-tags: [python, errors,pandas]
+tags: [python,problem,pandas]
 author: Lydia Shaw
 github:  LydiaCShaw
 mathjax: yes
