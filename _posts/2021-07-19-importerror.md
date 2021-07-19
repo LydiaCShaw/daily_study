@@ -41,9 +41,11 @@ After that, we also need to change the codes in program. However, after replacin
 I did not know why it still imported 'pandas.io.api' in version of 1.3.0. Even I did not know why it happened, because this project included so many files which was complicated to analyze where was wrong. Afterwards, I run the 3 lines program to checked what was wrong:
 ![newtry](.\assets\img\posts\20210719\newtry.jpg)
 I started a new python file called newtry.py. In normal case, it would output the results:
+```
 Empty DataFrame
 Columns: []
 Index: []
+```
 However, the error occured again. I guess it caused by version problem. And now I am still trying.
 I will update the situation if I have any other breakthrough or try.
 
