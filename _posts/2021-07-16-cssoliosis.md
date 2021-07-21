@@ -12,7 +12,9 @@ github:  LydiaCShaw
 mathjax: yes
 ---
 ## Two types of scoliosis
-The first type: This type was characterized by anteposition of the right collarbone (clavicle) and marked asymmetry of the left half of the chest, as well as anteposition of the left costal arch. There was a rib hump at the back on the same side of the chest that had a clavicle deformation.
+![image2](.\assets\img\posts\20210716\shape.jpg)
+For S-shaped scoliosis, there are two types.
+The first type: This type was characterized by anteposition of the right collarbone (clavicle) and marked asymmetry of the left half of the chest, as well as anteposition of the left costal arch. There was a rib hump at the back on the same side of the chest that had a clavicle deformation. (T right L left)
 
 The second type: in the case of anteposition of the left clavicle, all the features of the first type of deformity of the chest were mirrored on the opposite side.
 
@@ -103,11 +105,11 @@ Flexion of the spine: This is performed by the anterior cervical muscles, like t
 Rotation of the spine: The unilateral contraction of the following muscles allows for the rotation of the spine about its longitudinal axis: the sternocleidomastoid muscle, the superior part of the trapezius muscle, the scalene muscles and the abdominal external oblique muscle of the opposite side. Circular movements of the spine are performed due to sequential contraction of all muscle groups.
 
 ### Ligamentous apparatus of the spine
-The vertebrae are interconnected by fibrous cartilaginous plates or discs, with intervertebral joints and ligaments. The ligaments play a variety of roles, such as strengthening the spine by limiting its mobility. Intervertebral discs are located between the bodies of all the vertebrae, except C1-Cii. The discs have the functions of providing support, fixation, and shock-absorption. They also provide some mobility to the SMS. The outer side of the disc, called the annulus, consists of densely interwoven collagen fibres that grow into the periosteum. These fibres protect the horizontal surfaces of the vertebral bodies from traumatization by providing a strong interconnection between the disc and the bodies of the adjacent vertebrae. Fibres become completely calcified by the end of the second decade of life.
+The vertebrae are interconnected by fibrous cartilaginous plates or discs, with intervertebral joints and ligaments. The ligaments play a variety of roles, such as strengthening the spine by limiting its mobility. Intervertebral discs are located between the bodies of all the vertebrae, except C1-CII. The discs have the functions of providing support, fixation, and shock-absorption. They also provide some mobility to the SMS. The outer side of the disc, called the annulus, consists of densely interwoven collagen fibres that grow into the periosteum. These fibres protect the horizontal surfaces of the vertebral bodies from traumatization by providing a strong interconnection between the disc and the bodies of the adjacent vertebrae. Fibres become completely calcified by the end of the second decade of life.
 
 There are no fibres in the center of the disc which, instead, contains a jelly-like substance called the nucleus pulposus. It is soft, glassy in appearance and has the tendency to protrude.
 
-The discs of the cervical SMS are more or less of the same height. Those in the thoracic region are very thin. The height of the lumbar discs is greater than that of the others, and reach the maximum in the Liv-Lv segment.
+The discs of the cervical SMS are more or less of the same height. Those in the thoracic region are very thin. The height of the lumbar discs is greater than that of the others, and reach the maximum in the LIV-LV segment.
 
 ### Vascular supply to the spine
 The cervical region of the VC is supplied mainly by the vertebral artery. Arising from the subclavian artery, it passes through holes in the transverse processes of six cervical vertebrae, sending out branches to the spinal cord and medulla oblongata.
@@ -144,55 +146,11 @@ The spinal nerves are mixed, that contain sensory as well as motor fibres. As ea
 Adjacent anterior and posterior branches of the spinal nerves merge to form nerve plexi at different levels: cervical, brachial, lumbosacral and coccygeal.
 
 Cervical plexus: The cervical plexus innervates all the tissues and organs of the neck at the level of the upper four cervical vertebrae(C1-C4). It consists of the following branches:
-* Lesser occipital nerve, or n.occipitails minor(Cii-Ciii)
-* Great auricular nerve, or n.auricularis magnus(Ciii-Civ)
-* Transverse cervical nerve, or n.transversus colli(Cii-Ciii)
-* Supraclavicular nerves or nn.supraclavicularis(Ciii-Civ)
-* Phrenic nerve or n.phrenicus(Ciii-Civ-Cv)
- 
- Brachial plexus: The brachial plexus innervates all the tissues and organs of the neck at the level of the lower cervical vertebrae and of the upper limbs. It is formed by anterior branches of the 5th, 6th, 7th and 8th cervical spinal nerves. The BP is divided into supra- and infra-clavicular parts, and consists of the following:
- * Muscular branches
- * Dorsal scapular nerve, or n.dorsalis scapulae(Cv)
- * Long thoracic nerve, or n.thoracicus longus(Cv-Cvii)
- * Subclavian nerve, or n.subclavius(Civ-Cvi)
- * Suprascapular nerve, or n.suprascapularis(Cv-Cvi)
- * Musculocutaneous nerve, or n.musculocutaneus(Cv-Cvii)
- * Lateral pectoral nerve, or n.pectoralis lateralis(Cv-Cviii,Thi)
- * Medial pectoral nerve, or n.pectoralis medialis(Cv-Cviii)
- * Ulnar nerve, or n.ulnaris(Cvii-Cviii)
- * Medial antebrachial cutaneous nerve or n.cutaneus antebrachii medialis(Cviii,Thi)
- * Medial brachial cutaneous nerve or n.cutaneus brachii medialis(Cviii,Thi,Thii,Thiii)
- * Median nerve or n.medianus(Cvi-Thi)
- * Radial nerve or n.radialis(Cv-Cviii,Thi)
-  
-  Thoracic nerves: These nerves innervate the organs of the thoracic cavity. The anterior branches of the lumbar, sacral and coccygeal spinal nerves(Li-Lv,Si-Sv,Coi-Coii) merge to form a single lumbosacral plexus. Topographically, this plexus is divided into lumbar(Thxii,Li-Liv) and sacral and large pelvis, and the lumbar part of the trunk.
-  
-  Lumbar plexus: The lumbar plexus consists of the following:
-  * Muscular branches
-  * Iliohypogastric nerve or n.iliohypogastricus(Thxii-Li)
-  * Ilioinguinal nerve, or n.ilioinguinalis(Li)
-  * Genitofemoral nerve, or n.genitofemoralis(Li,Lii)
-  * Lateral cutaneous femoral nerve, or n.cutaneus femoris lateralis(Lii-Liii)
-  * Obturator nerve or n.obturatorius(Li-Lv)
-  * Accessory obturator nerve or n.obturatorius accessorius(Lii-Liv)
-  * Femoral nerve or n.femoralis(Li-Liv)
-
-Sacral and coccygeal plexi: These plexi innervate the organs of the small and large pelvis, as well asa the sacrum. They include nerves, or nn.sacrales(Si-Sv,Liv-Lv:Si-Siii)
-
-The sacral plexus consists of the following:
-* Internal obturator nerve, or n.obturatorius internus(Si)
-* Nerve to piriformis, or n.pirifoemis(Si-Sii)
-* Nerve to quadratus femoris, or n.quadratus femoris(Si-Sii)
-* Superior gluteal nerve, or n.gluteus superior(Liv-Lv,Si)
-* Inferior gluteal nerve, or n.gluteus inferior(Lv,Si,Sii)
-* Posterior cutaneous femoral nerve, or n.cutaneus femoris posterior(Si-Sii)
-* Sciatic nerve, or n.ischiadicus(Liv,Lv,Si-Siii)
-
-Coccygeal Plexus: The coccygeal plexus innervates the organs of the small pelvis, the coccyx and the sacrum, and consists of the following branches:
-1. Coccygeal nerve, or n.coccygeus
-2. Anococcygeal nerves, or nn.anococcygei
-
-
+* Lesser occipital nerve, or n.occipitails minor(CII-CIII)
+* Great auricular nerve, or n.auricularis magnus(CIII-CIV)
+* Transverse cervical nerve, or n.transversus colli(CII-CIII)
+* Supraclavicular nerves or nn.supraclavicularis(CIII-CIV)
+* Phrenic nerve or n.phrenicus()
 
 ## Reference
 [1]Valentyn Serdyuk. (2014).Scoliosis and spinal pain syndrome, new understanding of their origin and ways of successful treatment. ISBN:978-81-8193-116-0
