@@ -54,4 +54,42 @@ About the anomalies of the spine, *V.A. Dyachenko's* classification(1954) is the
  ----
  
 #### 1. Clefts and defects of vertebral bodies
-Congenital clefts or the condition in which the vertebrae remain unfused and open are known as 'spina bifida'. In the majority of cases, these defects are caused by disorders in the development of the vertebral
+Congenital clefts or the condition in which the vertebrae remain unfused and open are known as 'spina bifida'. In the majority of cases, these defects are caused by disorders in the development of the vertebral bodies during the foetal stages. The location of the clefts varies.
+
+According to the literature, the most common type (30%-35%) of spina bifida is the incomplete closure of the arch of the 1st sacral vertebra (spina bifida posterior). The second most common location is the 5th lumbar vertebra. Clefts are less common in the cervicothoracic region.
+
+Spina bifida anterior is rare. The anomaly is confined mainly to the level of the lower cervical and upper thoracic vertebrae, but can affect any vertebra in other regions of the spine. Usually, there is splitting of a few adjacent vertebral bodies. In the vast majority of cases, spina bifida anterior is not a single developmental anomaly, but often occurs in conjunction with other severe spinal deformities, such as synostoses and malformation of other organs.
+
+Incomplete fusion of the vertebral bodies leads to the formation of a defect of the posterior wall of the spinal canal, which is clinically manifested as meningeal cysts. During clinical examination, one can often observe external signs of incomplete fusion, such as hyperigmentation of the skin in the area of the defect. 
+
+Spina bifida may lead to a wide variety of diseases and several symptoms. These include permanent sacral pain, bedwetting, various sexual disorders, menstrual irregularities, chronic constipation, plano-valgus foot, varicose veins of the lower extremities, trophic ulcers and sweating of the feet. All these conditions can occur in the absence of spina bifida.
+
+#### 2. Wedge-shaped vertebrae
+
+This is a developmental anomaly in which the vertebra is a wedge-shaped bone mass of about half the size that it should be. The vertebra is located between two normal vertebrae. In the thoracic region, an additional unpaired rib often accompanies the wedge-shpaed vertebra. Rarely, the wedge-shaped vertebra is located with its base located posteriorly and its apex anteriorly (posterior wedge-shaped vertebra)
+
+This type of deformity is easily diagnosed by a lateral radiograph. Other than the reduction in the size of the vertebral body, only the posterior part is intact and the anterior part is underdeveloped. This spinal anomaly is the cause of congenital angular or arcuate kyphosis.
+
+The presence of one or more wedge-shaped vertebrae, located unilaterally, may cause varying degrees of lateral curvature of the spine. This is known as congenital soliosis. Scoliosis caused by wedge-shaped vertebrae, as opposed to static soliosis, is never of great significance. In cases in which the wedge-shaped vertebrae are located on both sides,one scoliosis could compensate for another. On clinical examination of these patients, external deformation of the spine is almost unnoticeable.
+
+Patients with kyphosis and scoliosis typically suffer from spinal pain and dysfunctions of those organs the innervation of which has been impaired. The severity of the complaints depends on the degree of the deformity.
+
+#### 3. Malformation of the vertebral bodies
+This rather large group includes the following:
+* Expansion of the diameter of the vertebral body (platispondylia) or flattened vertebrae.
+* Shortening of the vertebral bodies (brachispondylia). Brachispondylia is clinically important because the shortening of the trunk leads to a reduction in height. When several vertebrae are affected, the decrease in height may be significant(10-12cm).
+* A combination of expansion of the vertebral body and its flattening (platibrachispondilia). The butterfly deformity discussed earlier can be attributed to this type of anomaly.
+* 'Fish vertebrae' (codfish vertebrae). In this deformity, the bertebral body has a biconcave appearance due to a varying extent of depression of the central part of the upper and lower borders of the vertebral body. The visible shape of the vertebral body does not change, but the upper and lower areas become saucer-shaped or concave. At the same time, the intervertebral discs become thicker, overswollen and biconvex.
+
+The clinical manifestation of the anomalies mentioned above include skin diseases (dermatoses) of varying degrees of severity. These are characterized by thickening of the cornified layer of the epidermis. A common manifestation is ichthyosis, or fish skin disease, in which the skin becomes as thick as fish scales.
+
+#### 4. Clefts in the interarticular space of the arch
+In persons with spondylolysis, a defect of the vertebral arch, there is a cleft that is 2-3mm wide in the interarticular area.
+
+Under certain conditions, spondylolysis can become the cause of complications, such as sliding of the vertebrae or spondylolisthesis. Therefore, spondylolysis is also referred to as 'prespondylolisthesis'. It is caused by the abnormal appearance of two points of ossification, instead of one, in each half of the vertebral arch. These two points do not merge with each other and the vertebral body thus gets separated from the arches, resulting in the formation of a cleft. Spondylolysis, which occurs in 10%-12% of all adults, is observed much more often than spondylolisthesis, and may be unilateral or bilateral. This anomaly is occasionally combined with spina posterior and hypoplasia of the spinous processes.
+
+More than 80% of all patients with spondylolisthesis complain of lumbosacral pain, which may rediate to the lower extremities. Radiography is crucial for a definitive diagnosis.
+
+#### 5. Anomalies of the lumbosacral region
+During its development, the foetus has 7 cervical, 13 thoracic and 5 lumbar vertebrae. Then the first caudal (5th lumbar) vertebra fuses with the first sacral vertebra, and the 13th thoracic vertebra becomes the 1st lumbar vertebra after the reduction of the 13th pair of ribs. This process of transformation usually results in the formation of the normal number of vertebrae in the different regions of the spine. However, the process in certain permutations of the so-called transitional vertebrae. This is due to acquisition of the characteristics of the adjacent vertebrae.
+
