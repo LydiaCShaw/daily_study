@@ -93,3 +93,22 @@ More than 80% of all patients with spondylolisthesis complain of lumbosacral pai
 #### 5. Anomalies of the lumbosacral region
 During its development, the foetus has 7 cervical, 13 thoracic and 5 lumbar vertebrae. Then the first caudal (5th lumbar) vertebra fuses with the first sacral vertebra, and the 13th thoracic vertebra becomes the 1st lumbar vertebra after the reduction of the 13th pair of ribs. This process of transformation usually results in the formation of the normal number of vertebrae in the different regions of the spine. However, the process in certain permutations of the so-called transitional vertebrae. This is due to acquisition of the characteristics of the adjacent vertebrae.
 
+update on 07.23
+
+Variations is the number and size of the lumbosacral vertebrae, various types of fusion between them, etc. can be considered an anomaly. Extensive X-ray studies of this region have shown that a partocular antomical variation may be observed in 60%-75% of cases. It is not for no reasion that they say that the features of the lumbosacral regions are as unique to a person as is the face.
+
+There is a condition in which the 5th (caudal) lumbar vertebra is modified and acquires the shape of a sacral vertebra. The development of this last lumbar vertebra may stop at any of the intermediate phases-from the normal lumbar vertebra to the true sacral vertebra. True sacralization refers to the complete bony fusion of the transverse processes of the 5th lumbar vertebra with the sacrum, as well as iliac synchondrosis. Incomplete sacralization refers to only an enlargement of the transverse process.
+
+True sacralization is observed in 5%-7% of all cases. The enlargement of the transverse processes should be regarded as a normal anatomical variant, which occurs in about one-third of all patients. Sometimes, there is a combination of sacralization and spondylolisthesis. The opposite of sacralization is lumbarization of the sacral vertebra, a phenomenon observed less frequently. In order to establish the diagnosis of lumbarization, it must be conclusively proved that the number of sacral vertebrae is 4 rather than 5 and that there are 6 lumbar vertebrae.
+
+Most patients with transitional vertebrae experience lumbar and sacral pain, ishchialgia, weakness in the muscles of the lower extremities, fatigue, cramps in the calf muscles, sweating of the feet, etc. Clinicians and radiologists are of the view that transitional vertebrae create some kind of a lumbosacral spine deficiency, which, however, is not always accomanied by pain.
+
+In *Dr. Valentyn's* view, the idea that only bony structures are responsible for sacral pain is untenable. His team can gain a better understanding of the matter only if they improve ligamentous, articular, muscular and neural components functioning together. They thought they need to learn more about the static, mechanical and functional aspects. Considering all this, *Dr. Valentyn* felt that the surgical removal of an enlarged transverse process of a suprasacral vertebra would be undesirable.
+
+In view of *S.A. Reinberg* , he re-emphasized an extremely important idea that anomalies are not in themselves the cause of pain. Rather, the pain is a consequence of certain pathological processes which result in complications of the anomalies.
+
+#### 6. Mixed developmental anomalies of the spine
+
+Congenital vertebral synostosis is the fusion of two or more vertebrae. In more than 2% of cases, it may be found in any region of the spine. It occurs most frequently between the 2nd and the 3rd, as well as the 6th and the 7th cervical vertebrae. The vertebral bodies, arches and , in some cases, processes may be knitted together.
+
+The existence of various extensive synostoses in the cervical region is called Klippel-Feil syndrome or disease. 
