@@ -111,4 +111,23 @@ In view of *S.A. Reinberg* , he re-emphasized an extremely important idea that a
 
 Congenital vertebral synostosis is the fusion of two or more vertebrae. In more than 2% of cases, it may be found in any region of the spine. It occurs most frequently between the 2nd and the 3rd, as well as the 6th and the 7th cervical vertebrae. The vertebral bodies, arches and , in some cases, processes may be knitted together.
 
-The existence of various extensive synostoses in the cervical region is called Klippel-Feil syndrome or disease. 
+The existence of various extensive synostoses in the cervical region is called Klippel-Feil syndrome or disease.  
+
+update on 07.26
+
+In this conditions, some of the cervical vertebrae- most often the lower vertebrae and sometimes the upper thoracic vertebrae may be fused together, forming a solia, poorly differentiated bony mass. The number of vertebrae and their height are, therefore, considerably reduced. The neck is shortened or even absent. Simultaneously, one shoulder blade or both may be higher than normal (Sperengel's deformity).
+
+Although most of these anomalies are congenital,they usually come to the clinician's notice only when the patient is 40-60 years of age. The patient complains of local and reflected pain, stiffiness and limitied mobility of the head and neck, pain in the upper extremities (such as in plexitis), cramps in the fingers and their sweating, which is of great practical importance.
+
+
+----
+#### Transitional cranio-cervical border
+
+The abnormalities observed in this region include assimilation and manifestation of the atlas. In assimilation, the lateral parts of the atlas, either on one side or both sides, as well as the arch are partially or completely fused with the occipital bone. The types of fusion are very diverse. In cases of assimilation, the atlas may shift anteriorly or laterally, or symmetrically or asymmertrically. This results in deformity and narrowing of the foramen magnum. In manifestation, the elements of the vertebra arise from the occipital bone.
+
+In assimilation and manifestation, the odontoid process of the axis directly compresses the medulla oblongata, which contains the nuclei of the cranial nerves. For this reason, these pathological conditions can lead to serious neurological impairments. The complex of symptoms may be mistakenly interpreted as arising from amyotrophic sclerosis, syringobulbia, syringomyelia and other diseases of the medulla oblongata and the uppermost part of the SC. Though these anomalies are congenital, they are not apparent in the early stages of life. They often manifest in middle age and even old age.
+
+----
+#### Cervical ribs
+
+Cervical ribs are relatively rare. They can be of considerable size and occasionally articulate with the first rib or manubrium sterni. This anomaly is usually asymmertrical 
