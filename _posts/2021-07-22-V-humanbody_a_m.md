@@ -113,7 +113,7 @@ Congenital vertebral synostosis is the fusion of two or more vertebrae. In more 
 
 The existence of various extensive synostoses in the cervical region is called Klippel-Feil syndrome or disease.  
 
-update on 07.26
+(update on 07.26)
 
 In this conditions, some of the cervical vertebrae- most often the lower vertebrae and sometimes the upper thoracic vertebrae may be fused together, forming a solia, poorly differentiated bony mass. The number of vertebrae and their height are, therefore, considerably reduced. The neck is shortened or even absent. Simultaneously, one shoulder blade or both may be higher than normal (Sperengel's deformity).
 
@@ -130,4 +130,17 @@ In assimilation and manifestation, the odontoid process of the axis directly com
 ----
 #### Cervical ribs
 
-Cervical ribs are relatively rare. They can be of considerable size and occasionally articulate with the first rib or manubrium sterni. This anomaly is usually asymmertrical 
+Cervical ribs are relatively rare. They can be of considerable size and occasionally articulate with the first rib or manubrium sterni. This anomaly is usually asymmertrical.
+
+In most cases, cervical ribs do not cause  pathological symptoms. Sometimes, a deformity is visible and is firm on palpation. Numbness of the fingers and neuropathic pain, such as that in plexitis, may develop. The vascular manifestations include coldness of the hand and weakening of the pulse. Cervical ribs may be associated with other abnormalities. When there are significant clinical disorders and symptomatic treatment is not effective, surgical removal of the cervical rib together with the periosteum is indicated.
+
+----
+#### Defects of vertebral parts
+
+While performing their own anatomical investigations aimed to find the causes of vertebrobasilar syndrome, weakening of vision, migraine, visual field deficits and short-term loss of consciousness on suddenly turning the head (both among adults and children), author examined the vertebrae of many patients. Though we examined the vertebrae of different regions of the spine, cervical vertebrae were of special interest to him because the description in the literature of the anomalies in this region was clearly inadequate and the information given was also scanty.
+
+An examination of the cervical vertebrae revealed that the transverse processes had some defects. In particular, in some cases, foramen transversarium was absent or was doubled. Moreover, the shape and size of the articular processes, as well as the size, location and degree of symmetry of the intervertebral joints varied a great deal. Such structural abnormalities, of course, led to violation of permeability of the vertebral artery and accordingly, induced circulatory disorders of the brain.
+
+Concomitant deforming spondylosis, osteochondrosis and post-traumatic adhesion of the bodies and/or processes of the cervical vertebrae led to further potentiated circulatory disorders of the brain, neurological symptoms, fluctuations in blood pressure. This situation could be associated with increased stenosis of the spinal canal and intervertebral foramina due to deforming changes in the transverse processes and facet joints. However, in their view, the most significant negative factor leading to vertebral artery syndrome was the rotational displacement of vertebrae and, in particular, the cervical ones.
+
+(update on 07.28)
