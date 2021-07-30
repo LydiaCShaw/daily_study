@@ -23,6 +23,8 @@ In functional terms, asymmetry of the upper limbs is apparent in the marked pred
 
 There are reasons to believe that there is acertain asymmetry of the limbs even in mammals other than human beings, although the asymmetry in such cases is less pronounced. This is illustrated by the fact that animals, like human beings, move in circles when they lose visual control, as in foggy conditions. This is because of the functional predominance of the motor apparatus of one side of the body over that of the other side. In any cases, bilateral asymmetry of the motor apparatus is characteristic not only of humans, but also of all higher vertebrates.
 
+(update on 07.28)
+
 ----
 #### Consulation
 1. If the patient is  a child, he has usually been brought for consultation because of 
@@ -66,5 +68,24 @@ There are reasons to believe that there is acertain asymmetry of the limbs even 
  
  It is not only one particular part of the trunk that is characterized by asymmetry. As mentioned earlier, it is typical of the whole body and can be clearly observed in the face as well as the pelvic area. From the frontal view, all individuals, regardless of nationality and without exception, have an asymmetrical face. If the reader wishes to notice the signs of asymmetry in the pelvic region, it is best to observed people during summer, when they are wearing thin clothes. Viewed from the posterior all people have a body asymmetry - one scapula protrudes more posterioely than the other, similarly there is a difference in the sizes of the buttocks.
  
+ (update on 07.29)
  
+ ----
+ ### Origin of body asymmetry
+ 
+ By now, we have seen that asymmetry of the body muscles and lateral curvature of the spine are present among all individuals, and that these are often associated with pain. We already know that spinal pain always appears with scoliotic deformity in the background. Therefore, it was logical to start searching for answers about their origin not in pain as a consequence, but in the initial cause of the lateral curvature of the spine. The development of spinal pain is preceded by the development of asymmetry of the trunk muscles. For this reason, I have raised some questions:
+ 
+ * What causes asymmetry of the body?
+ * How does lateral curvature of the spine develop?
+ * What comes first - lateral curvature or muscle asymmetry?
+ * What is the interrelation between them?
+
+#### Anatomy and physiology of interhemispheric differences
+
+In 1968, on the basis of a detailed post-mortem examination of the brain of 100 individuals, Norman Geschwind and Walter Levitsky
+
+
+### Reference
+[1]
+[2]F.E.Bloom, A.Lazerson & L. Hofstadter.(1998).Brain, Mind and Behavior.
  
