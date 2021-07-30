@@ -82,10 +82,36 @@ There are reasons to believe that there is acertain asymmetry of the limbs even 
 
 #### Anatomy and physiology of interhemispheric differences
 
-In 1968, on the basis of a detailed post-mortem examination of the brain of 100 individuals, Norman Geschwind and Walter Levitsky
+In 1968, on the basis of a detailed post-mortem examination of the brain of 100 individuals, *Norman Geschwind and Walter Levitsky* reported significant anatomical differences between the hemispheres. In 65% of cases, the area of the temporal cortex, which overlaps the Wernicke's area, was greater in the left hemisphere(Group1), and only in 11% of cases was it greater in the right hemisphere(Group2). In 24% of cases, such interhemispheric differences were not observed(Group3).
+
+In later years, the same researchers studied and measured hundreds of other postmortem brains. Their findings were similar to the earlier ones. In approximately 70% of cases, the planum temporale of the left hemisphere was significantly larger than that of the right. This asymmetry was characteristic of the brain of the foetus as well. 
+
+*Stephen Wilson and Jenny Regan*, scientists from the University College of London, have also reported on asymmetry of the cerebral hemispheres, as well as unequal distribution of functions between them, with the left hemisphere predominating.
+
+It may be noted thay the right hemisphere controls the sensory and motor functions of the left side of the body, while the left controls those of the right side. In 95% of right-handed persons, the left hemisphere is responsible for language and speech, and it thus known as dominant. The right hemisphere controls skills associated with visual and spatial experience. It is called non-dominant.
+
+The psychological research carried out by the authors mentioned above revealed other important details of the physiology of the brain. For example, it was shown that in most cases, women are superior th men in verbal skills but are inferior to them with respect to mathematical and spatial abilities. These differences are already noticeable in childhood. Girls begin to talk and read earlier than boys. Among children who are unable to read, the number of boys exceeds that of girls by four times.
+
+The information obtained by author can be summarized as follows:
+1. The left and right cerebral hemispheres are asymmetrical, a characteristic which is predetermined genetically.
+2. In 95% of people who are right-handed, speech and language are controlled by the left hemisphere, while in the remaining 5% who are left-handed, they are controlled by the right hemisphere.
+3. Broca's area is a specific part of the left fromtal lobe that controls all the muscles of the face, tongue, jaws and throat. This is achieved through connections of this area with the anterior central gyrus, the cortical area responsible for motor functions of the right side of the body. Broca's area can be called the motor centre for speech.
+4. Wernicke's area, the posterior part of the first temporal gyrus, is responsible for semantic speech. In 65%-70% of cases, this area is larger in the left hemisphere.
+5. Wernicke's and Broca's areas are interconnected by a fibrous tract that allows them to functions in a synchronized manner, ie. motor and semantic speech constitute a single process.
+6. Taking into consideration the functional connection of Broca's area and Wernicke's area, one can assume that both of them function more actively in the left hemisphere than the right. This applies not only to the muscles of the head and neck but also to the spinal extensors. The asymmetrical contractile ability of the spinal extensors results in relative shortening of the left lower limb on the weaker side, as well as left-sided scoliosis of the trunk in the lumbar area. It is interesting to note that mimetic spasm is the cause of facial asymmetry.
+7. Among those people(11%) in whom the planum temporale is more developed in the right hemisphere, hypertonus of the spinal extensors is greater on the left side, leading to a curvature of the body to the right. This results in relative shortening of the right leg.
+8. In 24% of cases, the volume of the planum temporale is the same and, therefore, the face and other parts of the body should be symmetrical. However, the clinical observations have shown that this is doubtful, as there is no symmetry in nature. Thus, there is a need for physiologists to confirm the veracity of this information.
+9. During the development of the male foetus, the growth of the left hemisphere is inhibited by the secretion of a high level of testosterone. In boys, such underdevelopment of the left hemisphere, particularly of Wernicke's area, explains why there are four times as many boys as girls among the population of childrenwho are unable to read, and why girls have better verbal skills than boys.
+10. If we agree with the fact that Broca's and Wernicke's area are four times more active among girls than boys, it means that tonus of the spinal extensors, especially on the right side, is four times more pronounced among girls. Further, if the left hemisphere is smaller in boys than in girls, the difference in tone of the trunk muscles would incrase even more. This probably explains the universally known fact, which has been mentioned in the literature, that lateral scoliotic curvature occurs 5-6 times more frequently among girls than boys.
+11. As the newborn grows, asymmetry of the trunk muscles get imprinted in the cerebellum, which controls all movements. Indeed, the cerebellum is called the keeper of conditioned reflexes. The conditioned reflex that keeps the vertical body position develops from the time when a child takes her or his first steps, and then during the following months when the child becomes capable of standing in a stable upright posture and walking steadily.
+12. In girls, this process occurs faster than in boys, which is why they begin to walk earlier. However, unfortunately, this conditioned reflex - let author call it vicious - preserves the wrong body posture, either leaning to the right or to the left. This is how a child enters life and this is how he remains in all subsequent periods of his life, unless he meets a competent orthopaedic surgeon.
+   
 
 
 ### Reference
-[1]
+[1]Valentyn Serdyuk. (2014).Scoliosis and spinal pain syndrome, new understanding of their origin and ways of successful treatment. ISBN:978-81-8193-116-0
+
 [2]F.E.Bloom, A.Lazerson & L. Hofstadter.(1998).Brain, Mind and Behavior.
+
+[3] Ukraine.(2009).Cerebral hemispheres are having a real war for neurons. News of medicine and pharmacy.(3-4),269-270.
  
