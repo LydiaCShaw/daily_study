@@ -113,7 +113,7 @@ The information obtained by author can be summarized as follows:
  The degree od inclination of the body and the transition from the physiological to the pathological state depends both on the tone of the trunk extensors and the structural features of the spine, which in most cases are genetically determined. In the situation which has been described, that we do not consider a variety of specific and non-specific pathological processes that may affect the structure of the musculoskeletal system.
  
  The preceeding information suggests that during the intrauterine period up to birth, it is only the cerebral mechanism that is responsible for lateral curvature of the spine. However, after birth, other than cerebral factors are involved as well. 
-
+(update on 07.30)
 ### Reference
 [1]Valentyn Serdyuk. (2014).Scoliosis and spinal pain syndrome, new understanding of their origin and ways of successful treatment. ISBN:978-81-8193-116-0
 
