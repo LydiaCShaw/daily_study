@@ -71,7 +71,7 @@ There are reasons to believe that there is acertain asymmetry of the limbs even 
  (update on 07.29)
  
  ----
- ### Origin of body asymmetry
+### Origin of body asymmetry
  
  By now, we have seen that asymmetry of the body muscles and lateral curvature of the spine are present among all individuals, and that these are often associated with pain. We already know that spinal pain always appears with scoliotic deformity in the background. Therefore, it was logical to start searching for answers about their origin not in pain as a consequence, but in the initial cause of the lateral curvature of the spine. The development of spinal pain is preceded by the development of asymmetry of the trunk muscles. For this reason, I have raised some questions:
  
