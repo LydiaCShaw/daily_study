@@ -71,7 +71,7 @@ There are reasons to believe that there is acertain asymmetry of the limbs even 
  (update on 07.29)
  
  ----
- ### Origin of body asymmetry
+### Origin of body asymmetry
  
  By now, we have seen that asymmetry of the body muscles and lateral curvature of the spine are present among all individuals, and that these are often associated with pain. We already know that spinal pain always appears with scoliotic deformity in the background. Therefore, it was logical to start searching for answers about their origin not in pain as a consequence, but in the initial cause of the lateral curvature of the spine. The development of spinal pain is preceded by the development of asymmetry of the trunk muscles. For this reason, I have raised some questions:
  
@@ -113,7 +113,7 @@ The information obtained by author can be summarized as follows:
  The degree od inclination of the body and the transition from the physiological to the pathological state depends both on the tone of the trunk extensors and the structural features of the spine, which in most cases are genetically determined. In the situation which has been described, that we do not consider a variety of specific and non-specific pathological processes that may affect the structure of the musculoskeletal system.
  
  The preceeding information suggests that during the intrauterine period up to birth, it is only the cerebral mechanism that is responsible for lateral curvature of the spine. However, after birth, other than cerebral factors are involved as well. 
-
+(update on 07.30)
 ### Reference
 [1]Valentyn Serdyuk. (2014).Scoliosis and spinal pain syndrome, new understanding of their origin and ways of successful treatment. ISBN:978-81-8193-116-0
 
