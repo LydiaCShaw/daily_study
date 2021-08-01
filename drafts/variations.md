@@ -2,26 +2,49 @@
 layout: post
 read_time: true
 show_date: true
-title: "Scoliotic disease "
-date:   2021-08-01 12:32:20 -0600
-description: continue reading books scoliosis and spinal pain
-img: stock/0801.jpg
-tags: [spine, clinical, scoliosis]
+title: "Normal EEG rhythms "
+date:   2021-05-008 12:32:20 -0600
+description: Comprehensive Data Report of EEG
+img: 20210508/EEG.jpg
+tags: [EEG, rhythms]
 author: Lydia Shaw
 github:  LydiaCShaw
 mathjax: yes
 ---
-Scoliosis as a disease is considered one of the most difficult areas of orthopaedics. As the eminent German orthopaedist *A.Schantz* said, spinal diseases are among the most obscure areas of pathology. The problem of scoliosis has been, and remains, a subject of keen interest in all orthopaedic clinics in the world.
 
-The first precise description of scoliosis was given by *Ambroise Paré* (1510-1590), the famous French surgeon who was also the first to propose treating the condition with a cast made of perforated plates that immobilize the chest. *Hippocrates* knew of scoliosis and placed it the category of serious disorders that significantly shorten the life of a patient. This problem was stuided thoroughly in the early medieval period. He treated scoliosis with respiratory gymnastics, singing and bandaging the chest. He is the one who coined the terms scoliosis, kyphosis and lordosis. *Glisson, Fabricius and Hildanus* used medical gymnastics and various devices for treatment.
+###### Normal EEG rhythms
+
+EEG waveforms can be classified into 5 different frequency ranges: 
+* ①Delta rhythm (0.5-4Hz) 
+* ②Theta rhythm (4-7.5Hz) 
+* ③Alpha rhythm (8-13Hz) 
+* ④Beta rhythm (14-26Hz) 
+* ⑤Gamma rhythm (above 30Hz). 
+
+![image](.\assets\img\posts\20210508\waves.jpg)
+
+The patterns and physiological of normal EEG rhythms are very important for clinical diagnosis and neurological research. For most of healthy human, alpha waves exist when they are awake, quiet and closed their eyes. The alpha waves appear in the occipital lobe. 
+
+When one opened eyes, the alpha wave was gradually replaced by the beta wave.
+
+For these infants 3 to 5 months after birth, the delta wave begins to decrease. Subsequently, the theta wave appears mainly in the parietal and occipital areas. As children growing, theta wave will reduce, instead, the alpha is gradually dominant and finally similar to adults.
+
+By detecting EEG rhythms, doctors can judge whether patients have some diseases or sleep problems. The clinical symptom may be faster frequency and larger amplitude that is considered to be abnormal rhythm. 
 
 -----
 
-### Anatomical and physiological features of the spine in scoliosis
 
-The human spine consists of 24 vertebrae (excluding the sacral and coccygeal vertebrae), which are more or less firmly interconnected with each other as I mentioned before [in this article](http://linjingshang.top/cssoliosis.html). Seven of them are cervical, 12 thoracic and 5 lumbar. Twelve pairs of ribs(7 pairs of true and 5 pairs of spurious ribs) are connected with 12 vertebrae. The pairs of true ribs are connected with the sternum frontally, the 8th-10th pairs meet anteriorly to form the costal arch, and the 11th-12th pairs end freely without connection to the sternum.
+There are three kinds of evoked potentials in widespread clinical use: 
+* ①auditory evoked potentials, usually recorded from the scalp but originating at brainstem level; 
+* ②visual evoked potentials;
+* ③somatosensory evoked potentials, which are elicited by electrical stimulation of peripheral nerve. 
+  
+ Besides, event-related potential (ERP) is a special brain evoked potential that used in EEG. The main components of ERP are P1,N1,P2,N2, and P3. P1, N1 and P2 are exogenous potentials;
+ 
+ N2 and P3 are endogenous potentials. These potentials are not only the manifestation of the pure physical activity of brain, but also reflect some mental or psychological activity.
+ 
+ 
+In EEG signals, there are some large signals above 75μV,which is called artifact. The artifact occurred at the beginning of the motion of open eyes when one try to detect,I may consider the mainly reason is Rapid eye movements (REMs), which results from saccades and spontaneous changes of gaze. When subject blinks, this phenomenon may occur because the eye is a dipole, relatively positive at the corneal surface and negative at the retinal surface, leading to a moving charge and potential change. Another artifact may because of the motion of swallowing. The tongue is similar to the eye and makes muscle artifact.
 
-The 24 vertebrae and the discs are surrounded by a framework of dense ligaments and together, these form a strong pillar that supports the body. Despite the fact that the vertebrae are held together very tightly. As a result, the whole spine is characterized by a certain degree of fliexibility. This can be increased significantly through exercise, such as in the case of acrobats, gymnasts and circus performers. Bending forward, backwards and sideways, as well as lateral rotation, are known to increase the flexibility of the spine.
 
-The spine is not straight and has bends, which are considered merely physiological as long as they are within certain limits and are located in the frontal plane. The following curvatures of the spine are recognized: anterior curvature of the cervical spine(lordosis), posterior curvature of the thoracic spine(kyphosis),lumbar lordosis and finally, kyphosis of the sacrociccygeal region.
-
+In general, the amplitude of alpha wave tends to highly symmetrical. It is usually considered normal symptom that the amplitude on right side is higher than that on left side except the asymmetry is greater than 50%. Meanwhile, the frequency is symmetrical as well, if one side is slower than the other side, abnormal function will occur on the slower side. In clinic, this symptom is notable to observe. Therefore, we mainly use EEG to diagnose diseases. For example, infantile spasms are mostly high-amplitude slow waves, sharp and no rhythm. Purulent encephalitis is mostly delta waves, which mainly appear in the back of the cerebral hemisphere. Tuberculous meningitis has extensive theta waves.
