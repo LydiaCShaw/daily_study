@@ -5,7 +5,7 @@ show_date: true
 title: "Scoliotic disease"
 date:   2021-08-01 12:32:20 -0600
 description: continue reading books scoliosis and spinal pain
-img: stock/0801.jpg
+img: posts/stock/0801.jpg
 tags: [spine, clinical, scoliosis]
 author: Lydia Shaw
 github:  LydiaCShaw
