@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "Normal EEG rhythms"
-date:   2021-05-08 12:32:20 -0600
+date:   2021-05-08 08:32:20 -0600
 description: Comprehensive Data Report of EEG
 img: posts/20210508/EEG.jpg
 tags: [EEG, rhythms]
