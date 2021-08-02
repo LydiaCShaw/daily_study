@@ -2,8 +2,8 @@
 layout: post
 read_time: true
 show_date: true
-title: "Scoliotic disease"
-date:   2021-08-01 12:32:20 -0600
+title: Scoliotic disease
+date:   2021-08-01 09:32:20 -0600
 description: continue reading books scoliosis and spinal pain
 img: posts/stock/spine0801.jpg
 tags: [spine, clinical, scoliosis]
