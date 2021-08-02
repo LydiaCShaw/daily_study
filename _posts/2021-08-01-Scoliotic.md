@@ -2,15 +2,16 @@
 layout: post
 read_time: true
 show_date: true
-title: "Scoliotic disease"
-date:   2021-08-01 12:32:20 -0600
+title: "Scoliotic disease "
+date:   2021-08-1 11:32:20 -0600
 description: continue reading books scoliosis and spinal pain
-img: posts/stock/0801.jpg
+img: posts/stock/spine0801.jpg
 tags: [spine, clinical, scoliosis]
 author: Lydia Shaw
 github:  LydiaCShaw
 mathjax: yes
 ---
+
 Scoliosis as a disease is considered one of the most difficult areas of orthopaedics. As the eminent German orthopaedist *A.Schantz* said, spinal diseases are among the most obscure areas of pathology. The problem of scoliosis has been, and remains, a subject of keen interest in all orthopaedic clinics in the world.
 
 The first precise description of scoliosis was given by *Ambroise Paré* (1510-1590), the famous French surgeon who was also the first to propose treating the condition with a cast made of perforated plates that immobilize the chest. *Hippocrates* knew of scoliosis and placed it the category of serious disorders that significantly shorten the life of a patient. This problem was stuided thoroughly in the early medieval period. He treated scoliosis with respiratory gymnastics, singing and bandaging the chest. He is the one who coined the terms scoliosis, kyphosis and lordosis. *Glisson, Fabricius and Hildanus* used medical gymnastics and various devices for treatment.
