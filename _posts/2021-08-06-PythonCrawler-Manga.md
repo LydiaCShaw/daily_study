@@ -5,7 +5,7 @@ show_date: true
 title: "Python Crawler Exercise-Manga files of bilibili"
 date:   2021-08-06 12:32:20 -0600
 description: Using 
-img: 20210806/cover.png
+img: posts/20210806/cover.png
 tags: [python, crawler]
 author: Lydia Shaw
 github:  LydiaCShaw
