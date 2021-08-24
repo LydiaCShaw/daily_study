@@ -47,6 +47,10 @@ Compare it with A.C.T, I have to admit that A.C.T is better so it insteads the f
 
 As the image shown, we have a laser source. We align the laser source at the midline of the patient's hip, and then record the distance of the laser source at the same level as the C7.
 
+After recording the result of trunk listing, Adam's forward bend test is arranged then. We normally use scoliometer and spinescan two kinds of tools. 
+
+* step 5, scoliometer is shown below, that has a range from 0 to 30 degree on both sides. There is also a small ball in the middle. However, be careful, 
+![image](.\assets\img\posts\20210826\scoliometer_with_bean.png)
 
 
 ### Reference
