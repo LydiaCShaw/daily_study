@@ -85,10 +85,10 @@ Unit 4 called FWAG, but no found the record on Google, presumably flash memory. 
 Unit 7 is 25SNRG which is a chip for store memory, and I checked it working well.![image](.\assets\img\posts\stock\20210925_6.png)
 
 We have applied the sensor to patients and got the txt format data when they came back. 
-[image](.\assets\img\posts\stock\20210925_7.png)
-[image](.\assets\img\posts\stock\20210925_8.png)
-[image](.\assets\img\posts\stock\20210925_9.png)
-[image](.\assets\img\posts\stock\20210925_10.png)
+![image](.\assets\img\posts\stock\20210925_7.png)
+![image](.\assets\img\posts\stock\20210925_8.png)
+![image](.\assets\img\posts\stock\20210925_9.png)
+![image](.\assets\img\posts\stock\20210925_10.png)
 
 I used excel and MATLAB draw some graphs but an interesting incident was that all the sensor just recorded the data at most 3 days, and then they stopped. What's worse is that one of them just recorded one day only. But the manufacturer claimed that it can recorded the data at least 3 months.
 
