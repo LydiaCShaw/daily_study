@@ -51,6 +51,7 @@ Due to the emergence of PCB circuit boards, today's electrical appliances have v
 Therefore, firstly, I want to illustrate some shorthands on PCB board.
 
 The common shorthands are shown as below:
+```
 ESD: protection time
 ET: transformer or transistor
 J: connector
@@ -65,6 +66,7 @@ C: capacitor
 CRT: negative tube
 L: inductance
 R: resistance
+```
 
 ![image](.\assets\img\posts\stock\20210925_2.png)
 The unit 1 is a bluetooth connection called [Bluetooth NRG](https://pdf1.alldatasheet.com/datasheet-pdf/view/1006984/STMICROELECTRONICS/BLUENRG-2.html) , for the insulation layer on the chip, I can not detect the voltage or current at all, but I found the inner structure, we will explore more about this chip.
