@@ -11,6 +11,8 @@ author: Lydia Shaw
 github:  LydiaCShaw
 mathjax: yes
 ---
+
+
 The last article I mentioned about the whole process of assessment in our lab, but what about the next stage in clinic? I ever displayed an image of treatment protocol to illustrate the next stage, so when the cobb's angle measured was between 20-45，we may provide the brace to patients.
 
 We normally used IPad Mini connected to the 3D scanner spectra from Vorum to scan patient. After we attach all the markers, then we ask patient sit on a special seat and  begin to scan several times so that the 3D model can be recorded.
