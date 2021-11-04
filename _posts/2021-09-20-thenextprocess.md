@@ -17,7 +17,7 @@ The last article I mentioned about the whole process of assessment in our lab, b
 
 We normally used IPad Mini connected to the 3D scanner spectra from Vorum to scan patient. After we attach all the markers, then we ask patient sit on a special seat and  begin to scan several times so that the 3D model can be recorded.
 
-<iframe width="642" height="361" src="https://www.youtube.com/embed/x2ubKxnPxcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="642" height="361" src="https://www.youtube.com/embed/9Du19hfw4Yc?list=PLLoweD-ttVFW-6Ara3k-nZNEfh_VPRo75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 After that, we also should measure some body data such as chest circumference, waist circumference and hip circcumference.
 
