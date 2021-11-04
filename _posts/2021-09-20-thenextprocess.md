@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: " The afterwards process in clinic"
 date:   2021-09-20 12:32:20 -0600
-description: Using 
+description: 
 img: posts/stock/20210925_cover.jpg
 tags: [circuit, PCB, chips, sensor, canfit]
 author: Lydia Shaw
