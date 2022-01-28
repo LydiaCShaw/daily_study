@@ -35,7 +35,7 @@ The proposed framework extracts image features from spinal X-ray images and outp
 ![image1](.\assets\img\posts\20210714\ispine1.png)
 *figure shown the framework of the structured support vector regression (S2VR)*
 
-![image2](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/9b7d174375f26da92d95c0e96f9a8c9e/9b7d174375f26da92d95c0e96f9a8c9e.png)
+![image2](.\assets\img\posts\20210714\ispine1.png)
 *figure shown the method overcomes huge variations and high ambiguities and achieves high accuracy in landmark detection*
 
 ### BoostNet 
@@ -49,10 +49,10 @@ The BoostNet framework consists of three parts:
 ![image3](.\assets\img\posts\20210714\ispine3.png)
 *figure shown architecture of the BoostNet for landmark based AIS assessment. Relevant features are automatically extracted and any outlier features are removed by the Boost-Layer. A spinal structured multi-output layer is then applied to the output to capture the correlation between spinal landmarks.*
 
-![image4](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/95317683d74ab4e72a54bee02128c6bf/95317683d74ab4e72a54bee02128c6bf.png)
+![image4](.\assets\img\posts\20210714\ispine4.png)
 *Conceptualized diagram of our BoostLayer module. (a) The presence of outliers in the feature space impedes robust feature embedding. (b) The BoostLayer module detects outlier features based on a statistical properties. We use an orange dashed line to represent the outlier correction stage of the BoostLayer. For the sake of brevity, we did not include the biases and activation function in the diagram. (c) After correcting outliers, the intra-class feature variance is reduced, allowing for a more robust feature embedding.*
 
-![image5](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/c1204192dcce9804e6403133a5a62b4b/c1204192dcce9804e6403133a5a62b4b.png)
+![image5](.\assets\img\posts\20210714\ispine5.png)
 *Empirical results of our BoostNet algorithm. (a) The landmarks detected by our BoostNet conforms to the spinal shape more closely compared to the ConvNet detections. (b) The BoostNet converges to a much lower error rate compared to the ConvNet.*
 
 ### Dataset
@@ -69,14 +69,15 @@ Their experimental resulted from a set of anterior-posterior spine X-Ray images 
 ### Approach
 ① Vertebrae Segmentation and Labeling
 They proposed an algorithm 1 that training for vertebrae segmentation from spine X-Ray images. Here they proposed a progressive U-Net with some careful adjustments.Their model had an encoder and a decoder with skip connections. In each encoder layer, two 3 × 3 convolutions are followed by instance normalization, ReLU activation, and a 2×2 max-pooling. A dropout is applied in every encoder and decoder stage of the network. They generated side-outputs in every stage of the decoder.
-![image11](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/1d362ba76ae8b66052c53f458c3b76d0/1d362ba76ae8b66052c53f458c3b76d0.jpg)
+![image11](.\assets\img\posts\20210714\2.jpg)
 * Architecture of our segmentation network (Progressive U-Net): Side outputs at three different stages of the decoder are generated and progressively added to the next stage side-output. The output from the third side-output is added to the last stage before the final convolution to generate the final segmentation output.*
 ②Measurement of Scoliosis
 Their pipeline made use of the vertebrae segmentation in
 estimating Cobb angles. Algorithm 2 automatically calculates the Cobb angle by analyzing the contours from the segmented mask. When well-separated from others, each of the contours represents a vertebra relevant to the measurement of scoliosis.
-![image2](https://raw.githubusercontent.com/HEU-F8-PRACTICE/stor/master/20210714/f154a8b20729327aefd3073a2d7597eb/f154a8b20729327aefd3073a2d7597eb.jpg)
-![image3](.\assets\img\posts\20210714\3.jpg)
+![image2](.\assets\img\posts\20210714\3.jpg)
+![image3](.\assets\img\posts\20210714\4.jpg)
 *From input X-ray image (left), to segmentation mask prediction (middle), to vertebrae identification and scoliosis measurement (right) in our pipeline.*
+![image5](.\assets\img\posts\20210714\5.jpg)
 
 ## U-Net + resNet
 U-net key point detection + resNet classification
