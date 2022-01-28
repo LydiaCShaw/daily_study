@@ -35,7 +35,7 @@ The proposed framework extracts image features from spinal X-ray images and outp
 ![image1](.\assets\img\posts\20210714\ispine1.png)
 *figure shown the framework of the structured support vector regression (S2VR)*
 
-![image2](.\assets\img\posts\20210714\ispine1.png)
+![image2](.\assets\img\posts\20210714\ispine2.png)
 *figure shown the method overcomes huge variations and high ambiguities and achieves high accuracy in landmark detection*
 
 ### BoostNet 
