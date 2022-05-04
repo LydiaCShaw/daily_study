@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "Immunity and organ transplantation"
-date:   2022-05-04 12:32:20 -0600
+date:  2022-05-04 12:32:20 -0600
 description:  Immunity and organ transplantation
 img: posts/stock/2022050401.png
 tags: [immunity, organ transplantation]
