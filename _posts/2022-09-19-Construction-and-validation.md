@@ -2,8 +2,8 @@
 layout: post
 read_time: true
 show_date: true
-title: "Construction and validation of a three-dimensional finite element model of degenerative scoliosis"
-date:  2022-09-19 12:33:21 -0600
+title: " Construction and validation of a three-dimensional finite element model"
+date:  2022-09-19 17:00:21 -0600
 description:  
 img: posts/stock/LR.jpg
 tags: [FEM Model, Off-set, Facet Joint, Firction Coefficient Ligamanets, Validation, Mechanical Peoperties in silico]
@@ -11,6 +11,12 @@ author: Jie Zheng; Yonghong Yang; Shuliang Lou
 github:  LydiaCShaw
 mathjax: yes
 ---
+
+# Construction and validation of a three-dimensional finite element model of degenerative scoliosis
+
+Zheng et al. Journal of Orthopaedic Surgery and Research (2015) 10:189 
+DOI 10.1186/s13018-015-0334-1
+
 ## **Off-set**
 
 The solid model of each vertebra was divided into a high-quality mesh using the self-adapting dynamic biomechanical finite element grid of the Modeler. The length of the mesh was designated as 2 mm. The surface elements of each vertebral body were selected (except for the facet joint and intervertebral disc) using the submodel design tools of the Modeler and were used to form shell elements with an average thickness of **1.2 mm to represent the cortical bone.**
