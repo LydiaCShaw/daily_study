@@ -2,9 +2,9 @@
 layout: post
 read_time: true
 show_date: true
-title: " Construction and validation of a three-dimensional finite element model"
+title: Construction and validation of a three-dimensional finite element model
 date:  2022-09-19 17:00:21 -0600
-description:  
+description:  Construction and validation of a three-dimensional finite element model
 img: posts/stock/LR.jpg
 tags: [FEM Model, Off-set, Facet Joint, Firction Coefficient Ligamanets, Validation, Mechanical Peoperties in silico]
 author: Jie Zheng; Yonghong Yang; Shuliang Lou
