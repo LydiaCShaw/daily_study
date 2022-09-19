@@ -5,7 +5,7 @@ show_date: true
 title: "Construction and validation of a three-dimensional finite element model of degenerative scoliosis"
 date:  2022-09-19 12:33:21 -0600
 description:  
-img: posts/stock/spine.jpg
+img: posts/stock/LR.jpg
 tags: [FEM Model, Off-set, Facet Joint, Firction Coefficient Ligamanets, Validation, Mechanical Peoperties in silico]
 author: Jie Zheng; Yonghong Yang; Shuliang Lou
 github:  LydiaCShaw
