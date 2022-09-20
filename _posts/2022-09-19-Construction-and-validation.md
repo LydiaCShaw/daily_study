@@ -6,7 +6,7 @@ title: "Construction and validation of a three-dimensional finite element model 
 date:  2022-09-19 17:00:21 -0600
 description:  Construction and validation of a three-dimensional finite element model
 img: posts/stock/LR.jpg
-tags: [FEM Model, Off-set, Facet Joint, Firction Coefficient Ligamanets, Validation, Mechanical Peoperties in silico]
+tags: [FEM Model, Off-set, Facet Joint, Firction Coefficient Ligamanets]
 author: Lydia Shaw
 github:  LydiaCShaw
 mathjax: yes
